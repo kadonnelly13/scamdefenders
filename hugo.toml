@@ -8,6 +8,7 @@ enableEmoji = true
 [params]
     mode = 'auto'
     subtitle = 'Tips and resources for helping protect the people you care about from online scams.'
+    customcss = ["custom.css"]
 
 [[params.social]]
 name = 'Github'
