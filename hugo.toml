@@ -5,7 +5,6 @@ languageCode = 'en-us'
 theme = 'archie'
 enableEmoji = true
 enableGitInfo = true
-copyright = "Kyle Donnelly"
 
 [params]
     mode = 'auto'
