@@ -34,12 +34,12 @@ One of the best ways to help protect against scams is to raise awareness about t
 
 Two good rules of thumb are:
 
-1. If you personally don't know an individual or are expecting to be contacted about this topic, don't engage with them.
+1. If you personally don't know an individual or are not expecting to be contacted about this topic, don't engage with them.
 2. If you have never used or heard of a product or service before then you don't owe them money.
 
-If you are skeptical about the interaction try to gather the name of the individual and a case or service number. Next search online for the official website of the organization to find a posted phone number or support email address to reach out to. If this person is calling from a bank, your credit/debit card will have an official phone number on the physical card.
+If you are skeptical about the interaction try to gather the name of the individual contacting you and a case or service number. Then search online for the official website of the organization to find a posted phone number or support email address to reach out to. If this person is calling from a bank, your credit/debit card will have an official phone number on the physical card.
 
-The Consumer Financial Protection Bureau [1] and AARP [2] have good lists of common scans that is a good read to help drive a conversation. During that conversation it would also be good to review common phishing scams which the Federal Trade Commission has a good walk-through [3].
+The Consumer Financial Protection Bureau [1] and AARP [2] have good lists of common scans that are a good read to help drive a conversation. During that conversation it would also be good to review common phishing scams, which the Federal Trade Commission has a good walk-through [3].
 
 [1] https://www.consumerfinance.gov/ask-cfpb/what-are-some-common-types-of-scams-en-2092/
 
@@ -120,7 +120,7 @@ It is a good idea to do a regular cleanup of computers and phones.
 2. Ensure that a passcode or passwords to access the actual device are setup
 3. Apply operating system patches and update to the latest version. Enable automatic updates where possible. If updates are not possible then it might be time to get a new device
 4. Update all of the installed apps to the latest versions
-5. Install and run [Malwarebytes Adware Cleaner](https://www.malwarebytes.com/adwcleaner) and [Malwarebytes](https://www.malwarebytes.com/mwb-download)
+5. Install and run [Malwarebytes Adware Cleaner](https://www.malwarebytes.com/adwcleaner) and [Malwarebytes](https://www.malwarebytes.com/mwb-download) to cleanup any potential malicious programs
 
 # Recovering from an Online Scam
 
@@ -143,7 +143,7 @@ After the immediate risks have been mitigated it is time to try to recover from 
 3. [Review Browser History and Disable Notifications](#review-browser-history-and-disable-notifications)
 4. [Cleanup of Computer](#cleanup-of-computer)
 
-{{< callout type="alert" text="This section of the guide is intended for individuals who are experienced or comfortable with desktop computers. If you are not find a family member or friend who might be able to help out. If not go to [Yelp and find a reputable tech support company](https://www.yelp.com/search?find_desc=tech+support)." >}}
+{{< callout type="alert" text="This section of the guide is intended for individuals who are experienced or comfortable with desktop computers. If you are not find a family member or friend who might be able to help out. If not go to Yelp and find a reputable tech support company." >}}
 
 ### Reset All Passwords for Critical Accounts & Enable MFA
 
@@ -162,6 +162,10 @@ Below is a list of tools for desktops and links for how to uninstall them.
 - [LogMeIn Rescue](https://support.logmein.com/pro/help/how-to-manually-uninstall-logmein)
 - [ScreenConnect](https://docs.connectwise.com/ScreenConnect_Documentation/Get_started/Knowledge_base/Manually_uninstall_an_access_agent)
 - [AnyDesk](https://tsplus.net/remote-support/blog/how-to-remove-anydesk-completely/)
+
+### Review Email, Phone Calls and Text Messages
+
+By reviewing these sources of communication with the victim you can understand the potential impact or intentions of the scammer. Review all emails that may have come from a bank or money transfer tool like PayPal to see what was exactly stolen. Also review phone calls and messages on the victims phone, if that was used to communicate with the scammer, to gather more information.
 
 ### Review Browser History and Disable Notifications
 
@@ -202,4 +206,4 @@ There are tons of great resources out on the web to use to help protect your lov
 
 ## Helping out this project
 
-If you have any feedback, suggested changes, or just more curious about this project head over to its [Github](https://github.com/kadonnelly13/scamdefenders) page.
+If you have any feedback, suggested changes, or just more curious about this project head over to its [Github](https://github.com/kadonnelly13/scamdefenders) page. We will continue to update and improve this website so please check back again.
