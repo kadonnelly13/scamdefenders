@@ -61,11 +61,7 @@ Lots of times scams can come from ads throughout the internet. Installing an ad-
 - [Privacy Badger](https://privacybadger.org/)
 - [Ghostery](https://www.ghostery.com/)
 
-{{< callout emoji="🖥️" type="custom" title="What is a web browser and what is an extension?" text="A web browser [1] is an application used to visit websites on the internet - you are using one right now to read this website! The most common web browsers today are Google Chrome, Mozilla Firefox, and Apple Safari. An extension [2] is an app inside of your web browser that adds new functionality to help improve your experience. There is a specific group of extensions that help block potentially malicious advertisements which can lead to scams." style="background: transparent; border: 3px solid #40e0d0" >}}
-
-[1] https://www.microsoft.com/en-us/edge/learning-center/everything-to-know-about-browser-extensions
-
-[2] https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/
+{{< callout emoji="🖥️" type="custom" title="What is a web browser and a browser extension?" text="A <a href='https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/'>web browser</a> is an application used to visit websites on the internet, you are using one right now to read this website! The most common web browsers today are Google Chrome, Mozilla Firefox, and Apple Safari. A <a href='https://www.microsoft.com/en-us/edge/learning-center/everything-to-know-about-browser-extensions'>browser extension</a> is an app inside of your web browser that adds new functionality to help improve your experience. There is a specific group of extensions that help block potentially malicious advertisements which can lead to scams." style="background: transparent; border: 3px solid #40e0d0" >}}
 
 ## Enable Multi-Factor Authentication
 
@@ -143,7 +139,7 @@ After the immediate risks have been mitigated it is time to try to recover from 
 3. [Review Browser History and Disable Notifications](#review-browser-history-and-disable-notifications)
 4. [Cleanup of Computer](#cleanup-of-computer)
 
-{{< callout type="alert" text="This section of the guide is intended for individuals who are experienced or comfortable with desktop computers. If you are not find a family member or friend who might be able to help out. If not go to Yelp and find a reputable tech support company." >}}
+{{< callout type="alert" text="This section of the guide is intended for individuals who are experienced or comfortable with desktop computers. If you are not find a family member or friend who might be able to help out. If not go to <a href='https://www.yelp.com/search?find_desc=tech+support'>Yelp</a> and find a reputable tech support company." >}}
 
 ### Reset All Passwords for Critical Accounts & Enable MFA
 
