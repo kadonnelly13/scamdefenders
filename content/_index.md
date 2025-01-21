@@ -22,9 +22,11 @@ Online scammers continue to evolve their tactics to take advantage of individual
 6. [Block Incoming Phone Calls That Don't Have a Contact](#block-incoming-phone-calls-that-dont-have-a-contact)
 7. [Practice General Secure Computer and Phone Hygiene](#practice-general-secure-computer-and-phone-hygiene)
 
-{{< callout type="tip" text="Don't perform of these preventative steps in one sitting. Lots of change in a small period of time can be confusing and lead to mistakes and it is advised to do incremental improvements over time." bgcolor="transparent" >}}
+{{< callout type="tip" text="Don't perform of these preventative steps in one sitting. Lots of change in a small period of time can be confusing and lead to mistakes and it is advised to do incremental improvements over time. We have provided a rough difficulty level for each step." bgcolor="transparent" >}}
 
 ## Raise Awareness
+
+🟢 Low Difficulty Level
 
 One of the best ways to help protect against scams is to raise awareness about the dangers out there. Talk to your loved ones about the most common types of scams today and let them know how they typically work. These include a scammer calling or emailing about these topics:
 
@@ -49,11 +51,15 @@ The Consumer Financial Protection Bureau [1] and AARP [2] have good lists of com
 
 ### Artificial Intelligence Scams
 
+🟢 Low Difficulty Level
+
 With the rise of Artificial Intelligence (AI), the scam landscape is rapidly evolving and scammers are using this technology for bad intent such as cloning voices of loved ones [1]. One way to help prevent such attacks is to create a "safe" word with your loved ones. If there is questionable interaction not in person, you can verify that the other person in the discussion is who you think they are by confirming with the "safe" word. Ensure not to share this word with anyone!
 
 [1] https://www.npr.org/2023/03/22/1165448073/voice-clones-ai-scams-ftc
 
 ## Install a Web Browser Ad-Blocker Extension
+
+🟡 Moderate Difficulty Level
 
 Lots of times scams can come from ads throughout the internet. Installing an ad-blocker in their web browsers helps to reduce that attack surface for scammers. If possible, try to install an ad-blocker on all of the web browsers available to the device, not just their default browser. The most trusted ad-blocker is uBlock Origin which can be installed for all browsers but there are other alternatives as well.
 
@@ -65,6 +71,8 @@ Lots of times scams can come from ads throughout the internet. Installing an ad-
 
 ## Enable Multi-Factor Authentication
 
+🟡 Moderate Difficulty Level
+
 Multi-factor authentication, also commonly known as two-factor authentication, is key for ensuring that if account credentials are compromised (e.g. scammers manage to use or guess a password) then it will be harder for a bad actor to get access. Nowadays all major websites have some form of MFA available but there is a handy website called [2fa.directory](https://2fa.directory/us/) that aggregates websites where you can enable MFA.
 
 There are multiple different forms of secondary authentication methods so choosing one is better than none. Below are the most common methods in ranked order, beginning with the most secure, of these methods.
@@ -75,11 +83,15 @@ There are multiple different forms of secondary authentication methods so choosi
 
 ## Use a Contemporary Email Provider
 
+🔴 High Difficulty Level
+
 While it is still common to utilize email addresses provided by telecom companies like Comcast or SBC Global or ones provided by an employer or school, it is a good idea to migrate to a more modern provider like Gmail, Outlook, or Apple mail. The benefit is not having an email tied to a specific service that might change in the future. This future proofs you when there is a physical move to a new city or change of employment. This is also introduces an opportunity to have a clean start and reduce the spam messages that are most likely being sent to an old email address.
 
 There are reasons to keep the old email address around, specifically if there are old accounts and contacts points that need to be kept. However, that email can be regularly monitored for those sorts of messages while the day-to-day messages can be migrated to new email address.
 
 ## Manage and Use Passwords Securely
+
+🟡 Moderate Difficulty Level
 
 While "secure passwords" means different things to different people, the Cybersecurity & Infrastructure Security Agency (CISA) has three straightforward tips [1]:
 
@@ -93,6 +105,8 @@ A couple more things to emphasize with your loved one is to never share any pass
 
 ### Use a Password Manager
 
+🔴 High Difficulty Level
+
 Nowadays there is a class of tools called password managers that as the name suggests, help manage passwords. As these tools become more common at work and at home you can have a family plan where you can also help share login information and passwords across groups trusted of people. A couple of options include:
 
 - [1Password](https://1password.com/) (Paid)
@@ -100,6 +114,8 @@ Nowadays there is a class of tools called password managers that as the name sug
 - [Keepass](https://keepass.info/) (Free)
 
 ## Block Incoming Phone Calls That Don't Have a Contact
+
+🟡 Moderate Difficulty Level
 
 One of the best ways to protect against spam calls is to just block all calls to your loved one's cell phone if there isn't an existing contact.
 
@@ -109,6 +125,8 @@ Blocking calls has the potential to impact daily life in ways that might be unfo
 - [Android Devices](https://support.google.com/pixelphone/thread/8675177?hl=en&msgid=8676481)
 
 ## Practice General Secure Computer and Phone Hygiene
+
+🟡 Moderate Difficulty Level
 
 It is a good idea to do a regular cleanup of computers and phones.
 
