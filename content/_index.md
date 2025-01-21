@@ -7,6 +7,7 @@ This guide is broken into the following sections:
 - [Preventative Steps to Take Now](#preventative-steps-to-take-now)
 - [Recovering from an Online Scam](#recovering-from-an-online-scam)
 - [Additional Resources](#additional-resources)
+- [Helping out this Project](#helping-out-this-project)
 
 {{< callout type="warning" text="The contents of this guide is purely from an advisory standpoint and depending on the current situation at hand some items might not be applicable." >}}
 
@@ -15,12 +16,13 @@ This guide is broken into the following sections:
 Online scammers continue to evolve their tactics to take advantage of individuals but there are a handful of preventative steps that can be taken to help limit exposure of the people you care about from scams.
 
 1. [Raise Awareness](#raise-awareness)
-2. [Install a Web Browser Ad-Blocker](#install-a-web-browser-ad-blocker-extension)
-3. [Enable Multi-Factor Authentication](#enable-multi-factor-authentication)
-4. [Use a Contemporary Email Provider](#use-a-contemporary-email-provider)
-5. [Manage and Use Passwords Securely](#manage-and-use-passwords-securely)
-6. [Block Incoming Phone Calls That Don't Have a Contact](#block-incoming-phone-calls-that-dont-have-a-contact)
-7. [Practice General Secure Computer and Phone Hygiene](#practice-general-secure-computer-and-phone-hygiene)
+2. [Artificial Intelligence Scams](#artificial-intelligence-scams)
+3. [Install a Web Browser Ad-Blocker](#install-a-web-browser-ad-blocker-extension)
+4. [Enable Multi-Factor Authentication](#enable-multi-factor-authentication)
+5. [Use a Contemporary Email Provider](#use-a-contemporary-email-provider)
+6. [Manage and Use Passwords Securely](#manage-and-use-passwords-securely)
+7. [Block Incoming Phone Calls That Don't Have a Contact](#block-incoming-phone-calls-that-dont-have-a-contact)
+8. [Practice General Secure Computer and Phone Hygiene](#practice-general-secure-computer-and-phone-hygiene)
 
 {{< callout type="tip" text="Don't perform of these preventative steps in one sitting. Lots of change in a small period of time can be confusing and lead to mistakes and it is advised to do incremental improvements over time. We have provided a rough difficulty level for each step." bgcolor="transparent" >}}
 
@@ -49,7 +51,7 @@ The Consumer Financial Protection Bureau [1] and AARP [2] have good lists of com
 
 [3] https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams
 
-### Artificial Intelligence Scams
+## Artificial Intelligence Scams
 
 🟢 Low Difficulty Level
 
@@ -154,8 +156,9 @@ After the immediate risks have been mitigated it is time to try to recover from 
 
 1. [Reset all passwords for critical accounts and enable MFA](#reset-all-passwords-for-critical-accounts--enable-mfa)
 2. [Search for Installed Remote Software](#search-for-installed-remote-software)
-3. [Review Browser History and Disable Notifications](#review-browser-history-and-disable-notifications)
-4. [Cleanup of Computer](#cleanup-of-computer)
+3. [Review Email, Phone Calls and Text Messages](#review-email-phone-calls-and-text-messages)
+4. [Review Browser History and Disable Notifications](#review-browser-history-and-disable-notifications)
+5. [Cleanup of Computer](#cleanup-of-computer)
 
 {{< callout type="alert" text="This section of the guide is intended for individuals who are experienced or comfortable with desktop computers. If you are not find a family member or friend who might be able to help out. If not go to <a href='https://www.yelp.com/search?find_desc=tech+support'>Yelp</a> and find a reputable tech support company." >}}
 
@@ -218,6 +221,6 @@ There are tons of great resources out on the web to use to help protect your lov
 - [USA GOV - Scams and fraud](https://www.usa.gov/scams-and-fraud)
 - [Meta - Scam prevent](https://about.meta.com/actions/safety/topics/safety-basics/tools/scams)
 
-## Helping out this project
+# Helping out this project
 
 If you have any feedback, suggested changes, or just more curious about this project head over to its [Github](https://github.com/kadonnelly13/scamdefenders) page. We will continue to update and improve this website so please check back again.
