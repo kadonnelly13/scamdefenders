@@ -1,3 +1,8 @@
+---
+description: A simple guide to help protect you and the people you care about from common online scams.
+title: Scam Defenders
+---
+
 # About
 
 This is a simple guide to help protect you and the people you care about from common online scams.
