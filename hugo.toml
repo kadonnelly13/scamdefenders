@@ -1,5 +1,5 @@
 title = 'Scam Defenders'
-description = 'Tips and resources for helping protect the people you care about from online scams. These scams are constantly evolving and there is no foolproof way of stopping them but here are some ways to help. '
+description = 'Tips and resources for helping protect the people you care about from online scams. These scams are constantly evolving and there is no foolproof way of stopping them but here are some ways to help.'
 baseURL = 'https://scamdefenders.net/'
 languageCode = 'en-us'
 theme = 'archie'
@@ -7,10 +7,13 @@ enableEmoji = true
 enableGitInfo = true
 disableKinds = ["taxonomy"]
 
+[frontmatter]
+    lastmod = ["lastmod", ":git"]
+
 [params]
     mode = 'auto'
     subtitle = 'Tips and resources for helping protect the people you care about from online scams.'
     customcss = ["custom.css"]
 
-[frontmatter]
-    lastmod = ["lastmod", ":git"]
+[sitemap]
+    changeFreq = 'weekly'
