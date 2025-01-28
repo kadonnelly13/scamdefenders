@@ -1,5 +1,5 @@
 ---
-description: A simple guide to help protect you and the people you care about from common online scams.
+description: Tips and resources for helping protect the people you care about from online scams. These scams are constantly evolving and there is no foolproof way of stopping them but here are some ways to help.
 title: Scam Defenders
 ---
 
