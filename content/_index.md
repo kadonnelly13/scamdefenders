@@ -62,7 +62,11 @@ The Consumer Financial Protection Bureau [1] and AARP [2] have good lists of com
 
 With the rise of Artificial Intelligence (AI), the scam landscape is rapidly evolving and scammers are using this technology for bad intent such as cloning voices of loved ones [1]. One way to help prevent such attacks is to create a "safe" word with your loved ones. If there is questionable interaction not in person, you can verify that the other person in the discussion is who you think they are by confirming with the "safe" word. Ensure not to share this word with anyone!
 
+Another recent scam includes scammers generating fake news videos using pictures or videos of the targeted individuals attempting to blackmail or extort money from the victims via humiliation [2].
+
 [1] https://www.npr.org/2023/03/22/1165448073/voice-clones-ai-scams-ftc
+
+[2] https://www.wired.com/story/scammers-are-creating-fake-news-videos-to-blackmail-victims/
 
 ## Install a Web Browser Ad-Blocker Extension
 
