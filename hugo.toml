@@ -14,6 +14,7 @@ disableKinds = ["taxonomy"]
     mode = 'auto'
     subtitle = 'Tips and resources for helping protect the people you care about from online scams.'
     customcss = ["custom.css"]
+    og_image = "og-image.png"
 
 [sitemap]
     changeFreq = 'weekly'
