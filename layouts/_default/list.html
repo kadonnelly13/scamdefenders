@@ -1,0 +1,19 @@
+{{ define "main" }}
+{{ if isset .Data "Term" }}
+<h1>Entries tagged - "{{ .Data.Term }}"</h1>
+{{ else }}
+<h1 class="page-title">Scam Prevention News</h1>
+{{ end }}
+
+<p>Below is a curated list of news articles and other relevant pieces of media related to the industry of online scams.</p>
+
+<ul class="posts">
+	{{- range .Data.Pages -}}
+		{{- if (not (in (.Site.Params.excludedTypes | default (slice "page")) .Type)) -}}
+		<li>
+			<a href="{{ .RelPermalink }}">{{ .Title }}</a> | <time>{{ dateFormat ":date_medium" .Date }}</time>
+		</li>
+		{{- end -}}
+	{{- end -}}
+</ul>
+{{ end }}

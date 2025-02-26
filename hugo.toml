@@ -18,3 +18,9 @@ disableKinds = ["taxonomy"]
 
 [sitemap]
     changeFreq = 'weekly'
+
+
+[[menu.main]]
+name = "📰 Scam Prevention News"
+url = "/news"
+weight = 1
