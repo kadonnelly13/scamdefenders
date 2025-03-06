@@ -28,6 +28,7 @@ Online scammers continue to evolve their tactics to take advantage of individual
 6. [Manage and Use Passwords Securely](#manage-and-use-passwords-securely)
 7. [Block Incoming Phone Calls That Don't Have a Contact](#block-incoming-phone-calls-that-dont-have-a-contact)
 8. [Practice General Secure Computer and Phone Hygiene](#practice-general-secure-computer-and-phone-hygiene)
+9. [Print Off Computer Emergency Sheet](#print-off-computer-emergency-sheet)
 
 {{< callout type="tip" text="Don't perform of these preventative steps in one sitting. Lots of change in a small period of time can be confusing and lead to mistakes and it is advised to do incremental improvements over time. We have provided a rough difficulty level for each step." bgcolor="transparent" >}}
 
@@ -146,6 +147,14 @@ It is a good idea to do a regular cleanup of computers and phones.
 3. Apply operating system patches and update to the latest version. Enable automatic updates where possible. If updates are not possible then it might be time to get a new device
 4. Update all of the installed apps to the latest versions
 5. Install and run [Malwarebytes Adware Cleaner](https://www.malwarebytes.com/adwcleaner) and [Malwarebytes](https://www.malwarebytes.com/mwb-download) to cleanup any potential malicious programs
+
+## Print Off Computer Emergency Sheet
+
+🟢 Low Difficulty Level
+
+In case of an emergency, it is good to have a physical sheet available to help guide someone through the next steps. This is also important to have important numbers and contact information physically printed for when a computer becomes unusable. Print off our emergency sheet as a starting point and go through the exercise of filling it out together.
+
+Print that sheet from [here](computer-emergency-sheet.html).
 
 # Recovering from an Online Scam
 
