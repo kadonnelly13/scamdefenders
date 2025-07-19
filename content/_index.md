@@ -30,7 +30,7 @@ Online scammers continue to evolve their tactics to take advantage of individual
 8. [Practice General Secure Computer and Phone Hygiene](#practice-general-secure-computer-and-phone-hygiene)
 9. [Print Off Computer Emergency Sheet](#print-off-computer-emergency-sheet)
 
-{{< callout type="tip" text="Don't perform of these preventative steps in one sitting. Lots of change in a small period of time can be confusing and lead to mistakes and it is advised to do incremental improvements over time. We have provided a rough difficulty level for each step." bgcolor="transparent" >}}
+{{< callout type="tip" text="Don't perform all of these preventative steps in one sitting. Lots of change in a small period of time can be confusing and lead to mistakes and it is advised to do incremental improvements over time. We have provided a rough difficulty level for each step." bgcolor="transparent" >}}
 
 ## Raise Awareness
 
@@ -49,7 +49,7 @@ Two good rules of thumb are:
 
 If you are skeptical about the interaction try to gather the name of the individual contacting you and a case or service number. Then search online for the official website of the organization to find a posted phone number or support email address to reach out to. If this person is calling from a bank, your credit/debit card will have an official phone number on the physical card.
 
-The Consumer Financial Protection Bureau [1] and AARP [2] have good lists of common scans that are a good read to help drive a conversation. During that conversation it would also be good to review common phishing scams, which the Federal Trade Commission has a good walk-through [3].
+The Consumer Financial Protection Bureau [1] and AARP [2] have good lists of common scams that are a good read to help drive a conversation. During that conversation it would also be good to review common phishing scams, which the Federal Trade Commission has a good walk-through [3].
 
 [1] https://www.consumerfinance.gov/ask-cfpb/what-are-some-common-types-of-scams-en-2092/
 
@@ -97,7 +97,7 @@ There are multiple different forms of secondary authentication methods so choosi
 
 🔴 High Difficulty Level
 
-While it is still common to utilize email addresses provided by telecom companies like Comcast or SBC Global or ones provided by an employer or school, it is a good idea to migrate to a more modern provider like Gmail, Outlook, or Apple mail. The benefit is not having an email tied to a specific service that might change in the future. This future proofs you when there is a physical move to a new city or change of employment. This is also introduces an opportunity to have a clean start and reduce the spam messages that are most likely being sent to an old email address.
+While it is still common to utilize email addresses provided by telecom companies like Comcast or SBC Global or ones provided by an employer or school, it is a good idea to migrate to a more modern provider like Gmail, Outlook, or Apple mail. The benefit is not having an email tied to a specific service that might change in the future. This future proofs you when there is a physical move to a new city or change of employment. This also introduces an opportunity to have a clean start and reduce the spam messages that are most likely being sent to an old email address.
 
 There are reasons to keep the old email address around, specifically if there are old accounts and contacts points that need to be kept. However, that email can be regularly monitored for those sorts of messages while the day-to-day messages can be migrated to new email address.
 
@@ -119,7 +119,7 @@ A couple more things to emphasize with your loved one is to never share any pass
 
 🔴 High Difficulty Level
 
-Nowadays there is a class of tools called password managers that as the name suggests, help manage passwords. As these tools become more common at work and at home you can have a family plan where you can also help share login information and passwords across groups trusted of people. A couple of options include:
+Nowadays there is a class of tools called password managers that as the name suggests, help manage passwords. As these tools become more common at work and at home you can have a family plan where you can also help share login information and passwords across trusted groups of people. A couple of options include:
 
 - [1Password](https://1password.com/) (Paid)
 - [Bitwarden](https://bitwarden.com/) (Paid)
