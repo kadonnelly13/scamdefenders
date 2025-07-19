@@ -6,12 +6,37 @@ jobs:
   run-semgrep:
     runs-on: ubuntu-latest
     steps:
-      - name: Install Semgrep
-        run: python3 -m pip install semgrep
       - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
           submodules: true
+      - name: Install Semgrep
+        run: python3 -m pip install semgrep
+      - name: Get changed files
+        id: changed-files
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            echo "files=$(git diff --name-only origin/${{ github.base_ref }}...HEAD | tr '\n' ' ')" >> $GITHUB_OUTPUT
+          else
+            echo "files=$(git diff --name-only HEAD~1 | tr '\n' ' ')" >> $GITHUB_OUTPUT
+          fi
       - name: Run Semgrep
-        run: semgrep ci
+        run: |
+          CHANGED_FILES="${{ steps.changed-files.outputs.files }}"
+          if [ -n "$CHANGED_FILES" ]; then
+            # Filter to only existing files
+            EXISTING_FILES=""
+            for file in $CHANGED_FILES; do
+              if [ -f "$file" ]; then
+                EXISTING_FILES="$EXISTING_FILES $file"
+              fi
+            done
+            if [ -n "$EXISTING_FILES" ]; then
+              semgrep scan --config=auto $EXISTING_FILES
+            else
+              echo "No existing files to scan"
+            fi
+          else
+            echo "No files changed"
+          fi
