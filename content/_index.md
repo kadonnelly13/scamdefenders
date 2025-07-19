@@ -14,21 +14,22 @@ This guide is broken into the following sections:
 - [Additional Resources](#additional-resources)
 - [Helping out this Project](#helping-out-this-project)
 
-{{< callout type="warning" text="The contents of this guide is purely from an advisory standpoint and depending on the current situation at hand some items might not be applicable." >}}
+{{< callout type="warning" text="The contents of this guide are purely from an advisory standpoint and depending on the current situation at hand some items might not be applicable." >}}
 
 # Preventative Steps to Take Now
 
-Online scammers continue to evolve their tactics to take advantage of individuals but there are a handful of preventative steps that can be taken to help limit exposure of the people you care about from scams.
+Online scammers continue to evolve their tactics to take advantage of individuals, but there are a handful of preventative steps that can be taken to help limit exposure of the people you care about to scams.
 
 1. [Raise Awareness](#raise-awareness)
 2. [Artificial Intelligence Scams](#artificial-intelligence-scams)
 3. [Install a Web Browser Ad-Blocker](#install-a-web-browser-ad-blocker-extension)
-4. [Enable Multi-Factor Authentication](#enable-multi-factor-authentication)
-5. [Use a Contemporary Email Provider](#use-a-contemporary-email-provider)
-6. [Manage and Use Passwords Securely](#manage-and-use-passwords-securely)
-7. [Block Incoming Phone Calls That Don't Have a Contact](#block-incoming-phone-calls-that-dont-have-a-contact)
-8. [Practice General Secure Computer and Phone Hygiene](#practice-general-secure-computer-and-phone-hygiene)
-9. [Print Off Computer Emergency Sheet](#print-off-computer-emergency-sheet)
+4. [Enable Enhanced Browser Security](#enable-enhanced-browser-security)
+5. [Enable Multi-Factor Authentication](#enable-multi-factor-authentication)
+6. [Use a Contemporary Email Provider](#use-a-contemporary-email-provider)
+7. [Manage and Use Passwords Securely](#manage-and-use-passwords-securely)
+8. [Block Incoming Phone Calls That Don't Have a Contact](#block-incoming-phone-calls-that-dont-have-a-contact)
+9. [Practice General Secure Computer and Phone Hygiene](#practice-general-secure-computer-and-phone-hygiene)
+10. [Print Off Computer Emergency Sheet](#print-off-computer-emergency-sheet)
 
 {{< callout type="tip" text="Don't perform all of these preventative steps in one sitting. Lots of change in a small period of time can be confusing and lead to mistakes and it is advised to do incremental improvements over time. We have provided a rough difficulty level for each step." bgcolor="transparent" >}}
 
@@ -61,7 +62,7 @@ The Consumer Financial Protection Bureau [1] and AARP [2] have good lists of com
 
 🟢 Low Difficulty Level
 
-With the rise of Artificial Intelligence (AI), the scam landscape is rapidly evolving and scammers are using this technology for bad intent such as cloning voices of loved ones [1]. One way to help prevent such attacks is to create a "safe" word with your loved ones. If there is questionable interaction not in person, you can verify that the other person in the discussion is who you think they are by confirming with the "safe" word. Ensure not to share this word with anyone!
+With the rise of Artificial Intelligence (AI), the scam landscape is rapidly evolving and scammers are using this technology for malicious purposes such as cloning voices of loved ones [1]. One way to help prevent such attacks is to create a "safe" word with your loved ones. If there is questionable interaction not in person, you can verify that the other person in the discussion is who you think they are by confirming with the "safe" word. Ensure not to share this word with anyone!
 
 Another recent scam includes scammers generating fake news videos using pictures or videos of the targeted individuals attempting to blackmail or extort money from the victims via humiliation [2].
 
@@ -73,13 +74,33 @@ Another recent scam includes scammers generating fake news videos using pictures
 
 🟡 Moderate Difficulty Level
 
-Lots of times scams can come from ads throughout the internet. Installing an ad-blocker in their web browsers helps to reduce that attack surface for scammers. If possible, try to install an ad-blocker on all of the web browsers available to the device, not just their default browser. The most trusted ad-blocker is uBlock Origin which can be installed for all browsers but there are other alternatives as well.
+Many times scams can come from ads throughout the internet. Installing an ad-blocker in their web browsers helps to reduce that attack surface for scammers. If possible, try to install an ad-blocker on all of the web browsers available to the device, not just their default browser. The most trusted ad-blocker is uBlock Origin which can be installed for all browsers but there are other alternatives as well.
 
 - [uBlock Origin](https://ublockorigin.com/)
 - [Privacy Badger](https://privacybadger.org/)
 - [Ghostery](https://www.ghostery.com/)
 
 {{< callout emoji="🖥️" type="custom" title="What is a web browser and a browser extension?" text="A <a href='https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/'>web browser</a> is an application used to visit websites on the internet, you are using one right now to read this website! The most common web browsers today are Google Chrome, Mozilla Firefox, and Apple Safari. A <a href='https://www.microsoft.com/en-us/edge/learning-center/everything-to-know-about-browser-extensions'>browser extension</a> is an app inside of your web browser that adds new functionality to help improve your experience. There is a specific group of extensions that help block potentially malicious advertisements which can lead to scams." style="background: transparent; border: 3px solid #40e0d0" >}}
+
+## Enable Enhanced Browser Security
+
+🟢 Low Difficulty Level
+
+Modern web browsers come with built-in security features that can provide significant protection against scams and malicious websites. These features use artificial intelligence and real-time threat detection to block dangerous sites before you can interact with them.
+
+**Google Chrome - Enhanced Safe Browsing:**
+Chrome's Enhanced Safe Browsing provides twice the protection against phishing and scams compared to standard protection. It uses AI to detect scam techniques and suspicious URLs in real-time.
+
+To enable in Chrome:
+1. Go to **Settings** → **Privacy and security** → **Security**
+2. Under **Safe Browsing**, select **Enhanced Protection**
+
+**Other Browsers:**
+- **Firefox**: Enable Enhanced Tracking Protection in Settings → Privacy & Security
+- **Safari**: Fraudulent website warnings are enabled by default in Safari → Preferences → Security
+- **Microsoft Edge**: Microsoft Defender SmartScreen is enabled by default but can be verified in Settings → Privacy, search, and services
+
+**Important Note:** Enhanced protection modes may share more data with the browser company for analysis, but for most users vulnerable to scams, the security benefits outweigh privacy concerns. With over 1 billion Chrome users now using Enhanced Protection, it has become a widely-adopted security standard.
 
 ## Enable Multi-Factor Authentication
 
@@ -99,7 +120,7 @@ There are multiple different forms of secondary authentication methods so choosi
 
 While it is still common to utilize email addresses provided by telecom companies like Comcast or SBC Global or ones provided by an employer or school, it is a good idea to migrate to a more modern provider like Gmail, Outlook, or Apple mail. The benefit is not having an email tied to a specific service that might change in the future. This future proofs you when there is a physical move to a new city or change of employment. This also introduces an opportunity to have a clean start and reduce the spam messages that are most likely being sent to an old email address.
 
-There are reasons to keep the old email address around, specifically if there are old accounts and contacts points that need to be kept. However, that email can be regularly monitored for those sorts of messages while the day-to-day messages can be migrated to new email address.
+There are reasons to keep the old email address around, specifically if there are old accounts and contact points that need to be kept. However, that email can be regularly monitored for those sorts of messages while the day-to-day messages can be migrated to new email address.
 
 ## Manage and Use Passwords Securely
 
@@ -111,7 +132,7 @@ While "secure passwords" means different things to different people, the Cyberse
 2. Either make them totally random characters or use passphrases
 3. Do not reuse passwords across different accounts
 
-A couple more things to emphasize with your loved one is to never share any passwords with anyone else. No-one from a reputable organization will ever ask you for your password.
+A couple more things to emphasize with your loved ones are to never share any passwords with anyone else. No one from a reputable organization will ever ask you for your password.
 
 [1] https://www.cisa.gov/secure-our-world/use-strong-passwords
 
@@ -133,7 +154,7 @@ One of the best ways to protect against spam calls is to just block all calls to
 
 Blocking calls has the potential to impact daily life in ways that might be unforeseen. There are legitimate scenarios where a phone number not saved as a contact in their phone should be able to get in contact with them. For example, a doctors office who is trying to get in touch about an appointment or a financial institution checking in on a transaction.
 
-- [iPhone's & iOS Devices](https://support.apple.com/en-kg/guide/iphone/iphe4b3f7823/ios)
+- [iPhones & iOS Devices](https://support.apple.com/en-kg/guide/iphone/iphe4b3f7823/ios)
 - [Android Devices](https://support.google.com/pixelphone/thread/8675177?hl=en&msgid=8676481)
 
 ## Practice General Secure Computer and Phone Hygiene
