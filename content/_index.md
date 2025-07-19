@@ -264,17 +264,12 @@ There are tons of great resources out on the web to use to help protect your lov
 
 Key terms to help you understand this guide:
 
-Browser Extension: A small add-on program for your web browser that gives it new features, such as blocking ads or improving security.
-
-Multi-Factor Authentication (MFA): A security method that requires two or more steps to log into an account, like entering your password AND a code sent to your phone.
-
-Password Manager: A secure app that creates, stores, and fills in all your passwords automatically, so you only need to remember one master password.
-
-Phishing: A scam where criminals send fake emails, texts, or calls pretending to be from real companies to steal your personal information.
-
-Remote Access Software: Programs like TeamViewer or AnyDesk that let someone control your computer from far away. While useful for tech support, scammers often trick people into installing these.
-
-Web Browser: The program you use to visit websites on the internet, such as Google Chrome, Firefox, Safari, or Microsoft Edge.
+- **Browser Extension**: A small add-on program for your web browser that gives it new features, such as blocking ads or improving security.
+- **Multi-Factor Authentication (MFA)**: A security method that requires two or more steps to log into an account, like entering your password AND a code sent to your phone.
+- **Password Manager**: A secure app that creates, stores, and fills in all your passwords automatically, so you only need to remember one master password.
+- **Phishing**: A scam where criminals send fake emails, texts, or calls pretending to be from real companies to steal your personal information.
+- **Remote Access Software**: Programs like TeamViewer or AnyDesk that let someone control your computer from far away. While useful for tech support, scammers often trick people into installing these.
+- **Web Browser**: The program you use to visit websites on the internet, such as Google Chrome, Firefox, Safari, or Microsoft Edge.
 
 # Helping out this project
 
