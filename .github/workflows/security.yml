@@ -1,0 +1,17 @@
+name: Run security checks
+
+on: [pull_request]
+
+jobs:
+  run-semgrep:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Semgrep
+        run: python3 -m pip install semgrep
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          submodules: true
+      - name: Run Semgrep
+        run: semgrep ci
