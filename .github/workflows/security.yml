@@ -11,19 +11,20 @@ jobs:
         with:
           fetch-depth: 0
           submodules: true
+          persist-credentials: false
       - name: Install Semgrep
         run: python3 -m pip install semgrep
       - name: Get changed files
         id: changed-files
         run: |
           if [ "${{ github.event_name }}" = "pull_request" ]; then
-            echo "files=$(git diff --name-only origin/${{ github.base_ref }}...HEAD | tr '\n' ' ')" >> $GITHUB_OUTPUT
+            echo "files=$(git diff --name-only origin/${GITHUB_BASE_REF}...HEAD | tr '\n' ' ')" >> $GITHUB_OUTPUT
           else
             echo "files=$(git diff --name-only HEAD~1 | tr '\n' ' ')" >> $GITHUB_OUTPUT
           fi
       - name: Run Semgrep
         run: |
-          CHANGED_FILES="${{ steps.changed-files.outputs.files }}"
+          CHANGED_FILES="${STEPS_CHANGED_FILES_OUTPUTS_FILES}"
           if [ -n "$CHANGED_FILES" ]; then
             # Filter to only existing files
             EXISTING_FILES=""
@@ -40,3 +41,5 @@ jobs:
           else
             echo "No files changed"
           fi
+        env:
+          STEPS_CHANGED_FILES_OUTPUTS_FILES: ${{ steps.changed-files.outputs.files }}
