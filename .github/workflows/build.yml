@@ -1,9 +1,9 @@
-name: Build Website
+name: Build and prep website
 
 on: [push]
 
 jobs:
-  build-website:
+  build:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.152.2
@@ -12,14 +12,30 @@ jobs:
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
-      - name: Checkout
-        uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v6
         with:
           submodules: true
           persist-credentials: false
-      - name: Build
+      - name: Build site
         run: |
           hugo \
           build \
           --baseURL "https://scamdefenders.net" \
           --panicOnWarning
+  check-format:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v6
+        with:
+          submodules: true
+          persist-credentials: false
+      - name: Setup NodeJS
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+      - name: Install Prettier
+        run: npm install prettier
+      - name: Run Prettier check
+        run: npx prettier . --check
