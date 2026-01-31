@@ -47,4 +47,4 @@ jobs:
       - name: Install Aspell
         run: sudo apt install aspell --yes
       - name: Run spellcheck
-        run: aspell check -dict-dir en_US ${{ github.workspace }}/content/_index.md
+        run: aspell check --dict-dir en_US ${{ github.workspace }}/content/_index.md
