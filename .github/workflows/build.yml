@@ -44,7 +44,7 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v6
-      - name: Instal Aspell
+      - name: Install Aspell
         run: sudo apt install aspell --yes
       - name: Run spellcheck
-        run: aspell check -dict-dir en_US ./content/_index.md
+        run: aspell check -dict-dir en_US ${{ github.workspace }}/content/_index.md
