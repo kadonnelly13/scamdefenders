@@ -365,5 +365,5 @@ Key terms to help you understand this guide:
 # Helping out this project
 
 If you have any feedback, suggested changes, or just more curious about this project head over to
-its [Github](https://github.com/kadonnelly13/scamdefenders) page. We will continue to update and
+its [GitHub](https://github.com/kadonnelly13/scamdefenders) page. We will continue to update and
 improve this website so please check back again.

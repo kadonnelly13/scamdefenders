@@ -20,3 +20,12 @@ provide feedback.
 1. Install [Hugo](https://gohugo.io/)
 2. Run `hugo server -D` from the root directory of the repo
 3. Go to http://localhost:1313 to see the website
+
+### Custom Aspell Wordlist
+
+We utilize [Aspell](http://aspell.net/) for spellcheck purposes on the main landing page content and
+`.aspell.lang.prepl` contains the custom wordlist.
+
+```shell
+aspell check -dict-dir en_US ./content/_index.md
+```
