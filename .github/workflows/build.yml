@@ -39,3 +39,12 @@ jobs:
         run: npm install prettier
       - name: Run Prettier check
         run: npx prettier . --check
+  spellcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v6
+      - name: Instal Aspell
+        run: sudo apt install aspell --yes
+      - name: Run spellcheck
+        run: aspell check -dict-dir en_US ./content/_index.md
