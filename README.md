@@ -5,11 +5,15 @@
 
 [https://scamdefenders.net](https://scamdefenders.net/)
 
-In the current state of the world there are too many scammers who are taking advantage of the people we care about. The goal of this project is to help bring together resources and techniques to help protect those people in a practical way. This is by no means an exhaustive list of resources but is intended to be a simple guide that will evolve over time.
+In the current state of the world there are too many scammers who are taking advantage of the people
+we care about. The goal of this project is to help bring together resources and techniques to help
+protect those people in a practical way. This is by no means an exhaustive list of resources but is
+intended to be a simple guide that will evolve over time.
 
 ## Contributing
 
-Please feel free to open up an issue or pull request if you would like to suggest a change or provide feedback.
+Please feel free to open up an issue or pull request if you would like to suggest a change or
+provide feedback.
 
 ### Local Development
 

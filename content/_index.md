@@ -1,5 +1,8 @@
 ---
-description: Tips and resources for helping protect the people you care about from online scams. These scams are constantly evolving and there is no foolproof way of stopping them but here are some ways to help.
+description:
+  Tips and resources for helping protect the people you care about from online scams. These scams
+  are constantly evolving and there is no foolproof way of stopping them but here are some ways to
+  help.
 title: Scam Defenders
 ---
 
@@ -18,7 +21,9 @@ This guide is broken into the following sections:
 
 # Preventative Steps to Take Now
 
-Online scammers continue to evolve their tactics to take advantage of individuals, but there are a handful of preventative steps that can be taken to help limit exposure of the people you care about to scams.
+Online scammers continue to evolve their tactics to take advantage of individuals, but there are a
+handful of preventative steps that can be taken to help limit exposure of the people you care about
+to scams.
 
 1. [Raise Awareness](#raise-awareness)
 2. [Artificial Intelligence Scams](#artificial-intelligence-scams)
@@ -37,7 +42,9 @@ Online scammers continue to evolve their tactics to take advantage of individual
 
 🟢 Low Difficulty Level
 
-One of the best ways to help protect against scams is to raise awareness about the dangers out there. Talk to your loved ones about the most common types of scams today and let them know how they typically work. These include a scammer calling or emailing about these topics:
+One of the best ways to help protect against scams is to raise awareness about the dangers out
+there. Talk to your loved ones about the most common types of scams today and let them know how they
+typically work. These include a scammer calling or emailing about these topics:
 
 - Outstanding bill that needs to be paid for a service immediately
 - Unsolicited message about wanting to get into a romantic relationship
@@ -45,12 +52,18 @@ One of the best ways to help protect against scams is to raise awareness about t
 
 Two good rules of thumb are:
 
-1. If you personally don't know an individual or are not expecting to be contacted about this topic, don't engage with them.
+1. If you personally don't know an individual or are not expecting to be contacted about this topic,
+   don't engage with them.
 2. If you have never used or heard of a product or service before then you don't owe them money.
 
-If you are skeptical about the interaction try to gather the name of the individual contacting you and a case or service number. Then search online for the official website of the organization to find a posted phone number or support email address to reach out to. If this person is calling from a bank, your credit/debit card will have an official phone number on the physical card.
+If you are skeptical about the interaction try to gather the name of the individual contacting you
+and a case or service number. Then search online for the official website of the organization to
+find a posted phone number or support email address to reach out to. If this person is calling from
+a bank, your credit/debit card will have an official phone number on the physical card.
 
-The Consumer Financial Protection Bureau [1] and AARP [2] have good lists of common scams that are a good read to help drive a conversation. During that conversation it would also be good to review common phishing scams, which the Federal Trade Commission has a good walk-through [3].
+The Consumer Financial Protection Bureau [1] and AARP [2] have good lists of common scams that are a
+good read to help drive a conversation. During that conversation it would also be good to review
+common phishing scams, which the Federal Trade Commission has a good walk-through [3].
 
 [1] https://www.consumerfinance.gov/ask-cfpb/what-are-some-common-types-of-scams-en-2092/
 
@@ -62,9 +75,15 @@ The Consumer Financial Protection Bureau [1] and AARP [2] have good lists of com
 
 🟢 Low Difficulty Level
 
-With the rise of Artificial Intelligence (AI), the scam landscape is rapidly evolving and scammers are using this technology for malicious purposes such as cloning voices of loved ones [1]. One way to help prevent such attacks is to create a "safe" word with your loved ones. If there is questionable interaction not in person, you can verify that the other person in the discussion is who you think they are by confirming with the "safe" word. Ensure not to share this word with anyone!
+With the rise of Artificial Intelligence (AI), the scam landscape is rapidly evolving and scammers
+are using this technology for malicious purposes such as cloning voices of loved ones [1]. One way
+to help prevent such attacks is to create a "safe" word with your loved ones. If there is
+questionable interaction not in person, you can verify that the other person in the discussion is
+who you think they are by confirming with the "safe" word. Ensure not to share this word with
+anyone!
 
-Another recent scam includes scammers generating fake news videos using pictures or videos of the targeted individuals attempting to blackmail or extort money from the victims via humiliation [2].
+Another recent scam includes scammers generating fake news videos using pictures or videos of the
+targeted individuals attempting to blackmail or extort money from the victims via humiliation [2].
 
 [1] https://www.npr.org/2023/03/22/1165448073/voice-clones-ai-scams-ftc
 
@@ -74,7 +93,11 @@ Another recent scam includes scammers generating fake news videos using pictures
 
 🟡 Moderate Difficulty Level
 
-Many times scams can come from ads throughout the internet. Installing an ad-blocker in their web browsers helps to reduce that attack surface for scammers. If possible, try to install an ad-blocker on all of the web browsers available to the device, not just their default browser. The most trusted ad-blocker is uBlock Origin which can be installed for all browsers but there are other alternatives as well.
+Many times scams can come from ads throughout the internet. Installing an ad-blocker in their web
+browsers helps to reduce that attack surface for scammers. If possible, try to install an ad-blocker
+on all of the web browsers available to the device, not just their default browser. The most trusted
+ad-blocker is uBlock Origin which can be installed for all browsers but there are other alternatives
+as well.
 
 - [uBlock Origin](https://ublockorigin.com/)
 - [Privacy Badger](https://privacybadger.org/)
@@ -86,31 +109,47 @@ Many times scams can come from ads throughout the internet. Installing an ad-blo
 
 🟢 Low Difficulty Level
 
-Modern web browsers come with built-in security features that can provide significant protection against scams and malicious websites. These features use artificial intelligence and real-time threat detection to block dangerous sites before you can interact with them.
+Modern web browsers come with built-in security features that can provide significant protection
+against scams and malicious websites. These features use artificial intelligence and real-time
+threat detection to block dangerous sites before you can interact with them.
 
-**Google Chrome - Enhanced Safe Browsing:**
-Chrome's Enhanced Safe Browsing provides twice the protection against phishing and scams compared to standard protection. It uses AI to detect scam techniques and suspicious URLs in real-time.
+**Google Chrome - Enhanced Safe Browsing:** Chrome's Enhanced Safe Browsing provides twice the
+protection against phishing and scams compared to standard protection. It uses AI to detect scam
+techniques and suspicious URLs in real-time.
 
 To enable in Chrome:
+
 1. Go to **Settings** → **Privacy and security** → **Security**
 2. Under **Safe Browsing**, select **Enhanced Protection**
 
 **Other Browsers:**
+
 - **Firefox**: Enable Enhanced Tracking Protection in Settings → Privacy & Security
 - **Safari**: Fraudulent website warnings are enabled by default in Safari → Preferences → Security
-- **Microsoft Edge**: Microsoft Defender SmartScreen is enabled by default but can be verified in Settings → Privacy, search, and services
+- **Microsoft Edge**: Microsoft Defender SmartScreen is enabled by default but can be verified in
+  Settings → Privacy, search, and services
 
-**Important Note:** Enhanced protection modes may share more data with the browser company for analysis, but for most users vulnerable to scams, the security benefits outweigh privacy concerns. With over 1 billion Chrome users now using Enhanced Protection, it has become a widely-adopted security standard.
+**Important Note:** Enhanced protection modes may share more data with the browser company for
+analysis, but for most users vulnerable to scams, the security benefits outweigh privacy concerns.
+With over 1 billion Chrome users now using Enhanced Protection, it has become a widely-adopted
+security standard.
 
 ## Enable Multi-Factor Authentication
 
 🟡 Moderate Difficulty Level
 
-Multi-factor authentication, also commonly known as two-factor authentication, is key for ensuring that if account credentials are compromised (e.g. scammers manage to use or guess a password) then it will be harder for a bad actor to get access. Nowadays all major websites have some form of MFA available but there is a handy website called [2fa.directory](https://2fa.directory/us/) that aggregates websites where you can enable MFA.
+Multi-factor authentication, also commonly known as two-factor authentication, is key for ensuring
+that if account credentials are compromised (e.g. scammers manage to use or guess a password) then
+it will be harder for a bad actor to get access. Nowadays all major websites have some form of MFA
+available but there is a handy website called [2fa.directory](https://2fa.directory/us/) that
+aggregates websites where you can enable MFA.
 
-There are multiple different forms of secondary authentication methods so choosing one is better than none. Below are the most common methods in ranked order, beginning with the most secure, of these methods.
+There are multiple different forms of secondary authentication methods so choosing one is better
+than none. Below are the most common methods in ranked order, beginning with the most secure, of
+these methods.
 
-1. Hardware security token such as a [YubiKey](https://www.yubico.com/products/yubikey-5-overview/) or [Titan Security Key](https://cloud.google.com/security/products/titan-security-key)
+1. Hardware security token such as a [YubiKey](https://www.yubico.com/products/yubikey-5-overview/)
+   or [Titan Security Key](https://cloud.google.com/security/products/titan-security-key)
 2. [Time-based one-time password (TOTP)](https://www.twilio.com/docs/glossary/totp)
 3. SMS and email tokens
 
@@ -118,21 +157,30 @@ There are multiple different forms of secondary authentication methods so choosi
 
 🔴 High Difficulty Level
 
-While it is still common to utilize email addresses provided by telecom companies like Comcast or SBC Global or ones provided by an employer or school, it is a good idea to migrate to a more modern provider like Gmail, Outlook, or Apple mail. The benefit is not having an email tied to a specific service that might change in the future. This future proofs you when there is a physical move to a new city or change of employment. This also introduces an opportunity to have a clean start and reduce the spam messages that are most likely being sent to an old email address.
+While it is still common to utilize email addresses provided by telecom companies like Comcast or
+SBC Global or ones provided by an employer or school, it is a good idea to migrate to a more modern
+provider like Gmail, Outlook, or Apple mail. The benefit is not having an email tied to a specific
+service that might change in the future. This future proofs you when there is a physical move to a
+new city or change of employment. This also introduces an opportunity to have a clean start and
+reduce the spam messages that are most likely being sent to an old email address.
 
-There are reasons to keep the old email address around, specifically if there are old accounts and contact points that need to be kept. However, that email can be regularly monitored for those sorts of messages while the day-to-day messages can be migrated to new email address.
+There are reasons to keep the old email address around, specifically if there are old accounts and
+contact points that need to be kept. However, that email can be regularly monitored for those sorts
+of messages while the day-to-day messages can be migrated to new email address.
 
 ## Manage and Use Passwords Securely
 
 🟡 Moderate Difficulty Level
 
-While "secure passwords" means different things to different people, the Cybersecurity & Infrastructure Security Agency (CISA) has three straightforward tips [1]:
+While "secure passwords" means different things to different people, the Cybersecurity &
+Infrastructure Security Agency (CISA) has three straightforward tips [1]:
 
 1. Try to use at least 16 characters in a password
 2. Either make them totally random characters or use passphrases
 3. Do not reuse passwords across different accounts
 
-A couple more things to emphasize with your loved ones are to never share any passwords with anyone else. No one from a reputable organization will ever ask you for your password.
+A couple more things to emphasize with your loved ones are to never share any passwords with anyone
+else. No one from a reputable organization will ever ask you for your password.
 
 [1] https://www.cisa.gov/secure-our-world/use-strong-passwords
 
@@ -140,7 +188,10 @@ A couple more things to emphasize with your loved ones are to never share any pa
 
 🔴 High Difficulty Level
 
-Nowadays there is a class of tools called password managers that as the name suggests, help manage passwords. As these tools become more common at work and at home you can have a family plan where you can also help share login information and passwords across trusted groups of people. A couple of options include:
+Nowadays there is a class of tools called password managers that as the name suggests, help manage
+passwords. As these tools become more common at work and at home you can have a family plan where
+you can also help share login information and passwords across trusted groups of people. A couple of
+options include:
 
 - [1Password](https://1password.com/) (Paid)
 - [Bitwarden](https://bitwarden.com/) (Paid)
@@ -150,9 +201,13 @@ Nowadays there is a class of tools called password managers that as the name sug
 
 🟡 Moderate Difficulty Level
 
-One of the best ways to protect against spam calls is to just block all calls to your loved one's cell phone if there isn't an existing contact.
+One of the best ways to protect against spam calls is to just block all calls to your loved one's
+cell phone if there isn't an existing contact.
 
-Blocking calls has the potential to impact daily life in ways that might be unforeseen. There are legitimate scenarios where a phone number not saved as a contact in their phone should be able to get in contact with them. For example, a doctors office who is trying to get in touch about an appointment or a financial institution checking in on a transaction.
+Blocking calls has the potential to impact daily life in ways that might be unforeseen. There are
+legitimate scenarios where a phone number not saved as a contact in their phone should be able to
+get in contact with them. For example, a doctors office who is trying to get in touch about an
+appointment or a financial institution checking in on a transaction.
 
 - [iPhones & iOS Devices](https://support.apple.com/en-kg/guide/iphone/iphe4b3f7823/ios)
 - [Android Devices](https://support.google.com/pixelphone/thread/8675177?hl=en&msgid=8676481)
@@ -165,23 +220,32 @@ It is a good idea to do a regular cleanup of computers and phones.
 
 1. Review all installed apps and remove any that are unnecessary or suspicious
 2. Ensure that a passcode or passwords to access the actual device are setup
-3. Apply operating system patches and update to the latest version. Enable automatic updates where possible. If updates are not possible then it might be time to get a new device
+3. Apply operating system patches and update to the latest version. Enable automatic updates where
+   possible. If updates are not possible then it might be time to get a new device
 4. Update all of the installed apps to the latest versions
-5. Install and run [Malwarebytes Adware Cleaner](https://www.malwarebytes.com/adwcleaner) and [Malwarebytes](https://www.malwarebytes.com/mwb-download) to cleanup any potential malicious programs
+5. Install and run [Malwarebytes Adware Cleaner](https://www.malwarebytes.com/adwcleaner) and
+   [Malwarebytes](https://www.malwarebytes.com/mwb-download) to cleanup any potential malicious
+   programs
 
 ## Print Off Computer Emergency Sheet
 
 🟢 Low Difficulty Level
 
-In case of an emergency, it is good to have a physical sheet available to help guide someone through the next steps. This is also important to have important numbers and contact information physically printed for when a computer becomes unusable. Print off our emergency sheet as a starting point and go through the exercise of filling it out together.
+In case of an emergency, it is good to have a physical sheet available to help guide someone through
+the next steps. This is also important to have important numbers and contact information physically
+printed for when a computer becomes unusable. Print off our emergency sheet as a starting point and
+go through the exercise of filling it out together.
 
 Print that sheet from [here](computer-emergency-sheet.html).
 
 # Recovering from an Online Scam
 
-If you believe that a loved one is actively being scammed online, the FTC has a very good guide [1] for reference. Immediate steps that you can take include:
+If you believe that a loved one is actively being scammed online, the FTC has a very good guide [1]
+for reference. Immediate steps that you can take include:
 
-1. Ask them to turn off or unplug their computer. Typically, a scammer will request some sort of remote access. Turning off the computer is the best way to stop the connection that allows the scammer access.
+1. Ask them to turn off or unplug their computer. Typically, a scammer will request some sort of
+   remote access. Turning off the computer is the best way to stop the connection that allows the
+   scammer access.
 2. Call their banks and let them know this is happening so they can freeze accounts
 3. Warn them to not interact with any additional phone calls, emails, or text messages that may come
 
@@ -191,7 +255,11 @@ These are critical steps to try and stop the scammers in their tracks.
 
 ## Next Steps After a Scam
 
-After the immediate risks have been mitigated it is time to try to recover from this scamming incident. One of the key steps is to empathize with the victim in this scenario. They are probably feeling very self-conscious right now and have a wide range of emotions. The least you can do is go in with a good attitude, not shame them, and try to uplift the mood, if possible, especially if this is their first incident.
+After the immediate risks have been mitigated it is time to try to recover from this scamming
+incident. One of the key steps is to empathize with the victim in this scenario. They are probably
+feeling very self-conscious right now and have a wide range of emotions. The least you can do is go
+in with a good attitude, not shame them, and try to uplift the mood, if possible, especially if this
+is their first incident.
 
 1. [Reset all passwords for critical accounts and enable MFA](#reset-all-passwords-for-critical-accounts--enable-mfa)
 2. [Search for Installed Remote Software](#search-for-installed-remote-software)
@@ -203,11 +271,15 @@ After the immediate risks have been mitigated it is time to try to recover from 
 
 ### Reset All Passwords for Critical Accounts & Enable MFA
 
-For all banking, email, and other critical accounts it is best to immediately reset all account passwords and enable MFA where possible. It is difficult to track down what they might have had access to and for what period of time if there was a remote software tool involved.
+For all banking, email, and other critical accounts it is best to immediately reset all account
+passwords and enable MFA where possible. It is difficult to track down what they might have had
+access to and for what period of time if there was a remote software tool involved.
 
 ### Search for Installed Remote Software
 
-This is the primary way that a scammer will gain access to a computer of a victim. There are many free tools that are used and can be installed very easily. While these are legitimate tools, they can be used maliciously.
+This is the primary way that a scammer will gain access to a computer of a victim. There are many
+free tools that are used and can be installed very easily. While these are legitimate tools, they
+can be used maliciously.
 
 Below is a list of tools for desktops and links for how to uninstall them.
 
@@ -221,11 +293,19 @@ Below is a list of tools for desktops and links for how to uninstall them.
 
 ### Review Email, Phone Calls and Text Messages
 
-By reviewing these sources of communication with the victim you can understand the potential impact or intentions of the scammer. Review all emails that may have come from a bank or money transfer tool like PayPal to see what was exactly stolen. Also review phone calls and messages on the victims phone, if that was used to communicate with the scammer, to gather more information.
+By reviewing these sources of communication with the victim you can understand the potential impact
+or intentions of the scammer. Review all emails that may have come from a bank or money transfer
+tool like PayPal to see what was exactly stolen. Also review phone calls and messages on the victims
+phone, if that was used to communicate with the scammer, to gather more information.
 
 ### Review Browser History and Disable Notifications
 
-To try and "replay" the attack it is a good idea to review the browser history of all of the victim's installed browsers. This way you can try to piece together a story and potentially determine any other accounts or actions that might need to be taken. Also, a common way to persistently try and scam individuals is by using browser notifications [1] to send alerts to the victim in an attempt to get them to click/engage with the scammer. It is best to review those as well.
+To try and "replay" the attack it is a good idea to review the browser history of all of the
+victim's installed browsers. This way you can try to piece together a story and potentially
+determine any other accounts or actions that might need to be taken. Also, a common way to
+persistently try and scam individuals is by using browser notifications [1] to send alerts to the
+victim in an attempt to get them to click/engage with the scammer. It is best to review those as
+well.
 
 Review history:
 
@@ -245,15 +325,19 @@ Review notifications:
 
 ### Cleanup of Computer
 
-While you are doing cleanup it is a good time to go through and review all of the installed apps on the victim's computer. It is also a good idea to run a cleanup tool.
+While you are doing cleanup it is a good time to go through and review all of the installed apps on
+the victim's computer. It is also a good idea to run a cleanup tool.
 
 1. Review installed apps and remove any that are unused or suspicious
-2. Install and run [Malwarebytes Adware Cleaner](https://www.malwarebytes.com/adwcleaner) and [Malwarebytes](https://www.malwarebytes.com/mwb-download)
-3. Install all operating system updates and updates to other primary tools like Adobe Acrobat Reader and Microsoft Office
+2. Install and run [Malwarebytes Adware Cleaner](https://www.malwarebytes.com/adwcleaner) and
+   [Malwarebytes](https://www.malwarebytes.com/mwb-download)
+3. Install all operating system updates and updates to other primary tools like Adobe Acrobat Reader
+   and Microsoft Office
 
 # Additional Resources
 
-There are tons of great resources out on the web to use to help protect your loved ones and other individuals from scammers. Here is a short list of what's out there to review:
+There are tons of great resources out on the web to use to help protect your loved ones and other
+individuals from scammers. Here is a short list of what's out there to review:
 
 - [FDIC - Avoiding Scams and Scammers](https://www.fdic.gov/consumer-resource-center/2021-10/avoiding-scams-and-scammers)
 - [AARP - How to Keep a Loved One With Cognitive Decline Safe From Scams](https://www.aarp.org/money/scams-fraud/info-2024/protect-older-parents-from-scams.html)
@@ -264,13 +348,22 @@ There are tons of great resources out on the web to use to help protect your lov
 
 Key terms to help you understand this guide:
 
-- **Browser Extension**: A small add-on program for your web browser that gives it new features, such as blocking ads or improving security.
-- **Multi-Factor Authentication (MFA)**: A security method that requires two or more steps to log into an account, like entering your password AND a code sent to your phone.
-- **Password Manager**: A secure app that creates, stores, and fills in all your passwords automatically, so you only need to remember one master password.
-- **Phishing**: A scam where criminals send fake emails, texts, or calls pretending to be from real companies to steal your personal information.
-- **Remote Access Software**: Programs like TeamViewer or AnyDesk that let someone control your computer from far away. While useful for tech support, scammers often trick people into installing these.
-- **Web Browser**: The program you use to visit websites on the internet, such as Google Chrome, Firefox, Safari, or Microsoft Edge.
+- **Browser Extension**: A small add-on program for your web browser that gives it new features,
+  such as blocking ads or improving security.
+- **Multi-Factor Authentication (MFA)**: A security method that requires two or more steps to log
+  into an account, like entering your password AND a code sent to your phone.
+- **Password Manager**: A secure app that creates, stores, and fills in all your passwords
+  automatically, so you only need to remember one master password.
+- **Phishing**: A scam where criminals send fake emails, texts, or calls pretending to be from real
+  companies to steal your personal information.
+- **Remote Access Software**: Programs like TeamViewer or AnyDesk that let someone control your
+  computer from far away. While useful for tech support, scammers often trick people into installing
+  these.
+- **Web Browser**: The program you use to visit websites on the internet, such as Google Chrome,
+  Firefox, Safari, or Microsoft Edge.
 
 # Helping out this project
 
-If you have any feedback, suggested changes, or just more curious about this project head over to its [Github](https://github.com/kadonnelly13/scamdefenders) page. We will continue to update and improve this website so please check back again.
+If you have any feedback, suggested changes, or just more curious about this project head over to
+its [Github](https://github.com/kadonnelly13/scamdefenders) page. We will continue to update and
+improve this website so please check back again.
