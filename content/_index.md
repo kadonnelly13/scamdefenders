@@ -132,7 +132,9 @@ To enable in Chrome:
 **Important Note:** Enhanced protection modes may share more data with the browser company for
 analysis, but for most users vulnerable to scams, the security benefits outweigh privacy concerns.
 With over 1 billion Chrome users now using Enhanced Protection, it has become a widely-adopted
-security standard.
+security standard [1].
+
+[1] https://blog.google/products/chrome/google-chrome-safe-browsing-one-billion-users/
 
 ## Enable Multi-Factor Authentication
 
@@ -194,8 +196,8 @@ you can also help share login information and passwords across trusted groups of
 options include:
 
 - [1Password](https://1password.com/) (Paid)
-- [Bitwarden](https://bitwarden.com/) (Paid)
-- [Keepass](https://keepass.info/) (Free)
+- [Bitwarden](https://bitwarden.com/) (Free/Paid)
+- [KeePass](https://keepass.info/) (Free)
 
 ## Block Incoming Phone Calls That Don't Have a Contact
 
@@ -236,7 +238,7 @@ the next steps. This is also important to have important numbers and contact inf
 printed for when a computer becomes unusable. Print off our emergency sheet as a starting point and
 go through the exercise of filling it out together.
 
-Print that sheet from [here](computer-emergency-sheet.html).
+[Print the computer emergency sheet](computer-emergency-sheet.html).
 
 # Recovering from an Online Scam
 
