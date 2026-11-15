@@ -1,6 +1,9 @@
 name: Build and prep website
 
-on: [push]
+on:
+  push:
+    branches: [main]
+  pull_request:
 
 permissions: {}
 
@@ -51,5 +54,8 @@ jobs:
       - name: Install Aspell
         run: sudo apt install aspell --yes
       - name: Run spellcheck
+        shell: bash
         run: |
-          aspell list --dict-dir en_US --mode markdown < ${{ github.workspace }}/content/_index.md
+          words=$(cat content/_index.md content/news/*.md | aspell list --lang=en_US --mode=markdown --ignore=2 --personal=./.aspell.lang.pws | sort -u)
+          echo "$words"
+          [ -z "$words" ]
