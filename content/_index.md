@@ -9,15 +9,97 @@ title: Scam Defenders
 # About
 
 This is a simple guide to help protect you and the people you care about from common online scams.
+Pick the part that fits you:
 
-This guide is broken into the following sections:
+- **[Protect Myself](#protect-myself)**: a short list of habits and settings for keeping yourself
+  safe. No technical background needed.
+- **[Help Someone Else](#help-someone-else)**: a step-by-step playbook for setting up a loved one's
+  computer and phone, and for cleaning up after a scam.
+
+{{< callout type="alert" text="Think you or someone you know is being scammed right now? Disconnect the computer from the internet, then go to <a href='#if-you-think-you-are-being-scammed'>what to do right now</a>." >}}
+
+{{< callout type="warning" text="The contents of this guide are purely from an advisory standpoint and depending on the current situation at hand some items might not be applicable." >}}
+
+# Protect Myself
+
+Scammers are good at what they do, and anyone can be caught out. You do not need to be good with
+computers to protect yourself. A few habits do most of the work.
+
+{{< callout type="alert" text="If something is happening right now, skip to <a href='#if-you-think-you-are-being-scammed'>If you think you are being scammed</a>." >}}
+
+## Three habits that stop most scams
+
+1. **If you were not expecting it, do not engage.** This goes for calls, emails, text messages, and
+   pop-ups on your screen. It is fine to hang up or close the window.
+2. **If you have never used a product or service, you do not owe it money.** A surprise bill is a
+   warning sign, not a debt.
+3. **Check using contact details you already have.** Do not use a phone number, link, or email
+   address the person gives you, and do not search online for a support number. Scammers pay for ads
+   that put fake numbers at the top of search results. Use one of these instead:
+   - The phone number printed on the back of your bank card
+   - The phone number on a recent bill or statement
+   - A website you have bookmarked or typed in yourself before
+
+## Warning signs
+
+Be on guard when someone you did not contact first:
+
+- Says you owe money that must be paid immediately
+- Wants to start a romantic relationship
+- Says they are a family member or friend in trouble and need money
+- Asks for a password or a code sent to your phone. No reputable organization will ever ask for
+  these.
+- Asks you to install a program so they can "fix" your computer
+
+## Agree on a safe word with your family
+
+Scammers can now copy a person's voice. Pick a word with your family that only you know. If someone
+calls sounding like a loved one and asks for money or help, ask for the word. Do not share it with
+anyone else.
+
+## Settings worth turning on
+
+Do these one at a time, not all in one sitting. Each link goes to step-by-step instructions. If any
+of them feel like too much, ask someone you trust to sit with you and show them the
+[Help Someone Else](#help-someone-else) section.
+
+- 🟢 [Turn on your web browser's built-in scam protection](#enable-enhanced-browser-security)
+- 🟢 Keep your computer and phone up to date. When they ask to install an update, let them.
+- 🟡
+  [Send calls from unknown numbers to voicemail](#block-incoming-phone-calls-that-dont-have-a-contact).
+  Save your doctor, pharmacy, and bank as contacts first.
+- 🟡 [Add a second step when you log in to your bank and email](#enable-multi-factor-authentication)
+- 🟡 [Use a different, long password for every account](#manage-and-use-passwords-securely)
+
+Some of the words in this guide are explained in the [glossary](#glossary).
+
+## If you think you are being scammed
+
+1. **Disconnect from the internet.** Unplug the network cable or turn off Wi-Fi. If you are not sure
+   how, turn the computer off or unplug it.
+2. **Hang up, and stop replying.** Do not answer further calls, emails, or text messages from them.
+3. **Call your bank** using the number on the back of your card, and tell them what happened so they
+   can freeze your accounts.
+4. **Tell someone you trust.** This happens to a great many people and it is not your fault. A
+   family member or friend can follow the [recovery steps](#recovering-from-an-online-scam) with
+   you.
+
+The FTC has a good guide on
+[what to do if you were scammed](https://consumer.ftc.gov/articles/what-do-if-you-were-scammed).
+
+## Be ready ahead of time
+
+[Print the computer emergency sheet](computer-emergency-sheet.html), fill in your important phone
+numbers, and keep it near your computer.
+
+# Help Someone Else
+
+This part of the guide is for someone comfortable with computers who is helping a family member or
+friend. If you are here to protect yourself, start with the shorter
+[Protect Myself](#protect-myself) section above. It has two parts:
 
 - [Preventative Steps to Take Now](#preventative-steps-to-take-now)
 - [Recovering from an Online Scam](#recovering-from-an-online-scam)
-- [Additional Resources](#additional-resources)
-- [Helping out this Project](#helping-out-this-project)
-
-{{< callout type="warning" text="The contents of this guide are purely from an advisory standpoint and depending on the current situation at hand some items might not be applicable." >}}
 
 # Preventative Steps to Take Now
 
@@ -44,27 +126,8 @@ to scams.
 
 One of the best ways to help protect against scams is to raise awareness about the dangers out
 there. Talk to your loved ones about the most common types of scams today and let them know how they
-typically work. These include a scammer calling or emailing about these topics:
-
-- Outstanding bill that needs to be paid for a service immediately
-- Unsolicited message about wanting to get into a romantic relationship
-- Impersonating a loved one
-
-Two good rules of thumb are:
-
-1. If you personally don't know an individual or are not expecting to be contacted about this topic,
-   don't engage with them.
-2. If you have never used or heard of a product or service before then you don't owe them money.
-
-If you are skeptical about the interaction, try to gather the name of the individual contacting you
-and a case or service number, then end the conversation. Do not use any phone number, link, or email
-address the person gives you, and do not search online for a support number. Scammers pay for search
-ads that show fake support numbers above the real ones. Instead, reach out to the organization using
-contact details you already have and trust:
-
-- The phone number printed on the back of your credit/debit card
-- The phone number on a recent bill or account statement
-- A website address you have bookmarked or typed in yourself before
+typically work. The [Protect Myself](#protect-myself) section covers the habits, warning signs, and
+how to check whether a caller or message is real. Walk through it together, or print it for them.
 
 The Consumer Financial Protection Bureau [1] and AARP [2] have good lists of common scams that are a
 good read to help drive a conversation. During that conversation it would also be good to review
@@ -111,7 +174,7 @@ alternatives as well.
 - [uBlock Origin Lite (Safari)](https://apps.apple.com/us/app/ublock-origin-lite/id6745342698)
 - [Ghostery](https://www.ghostery.com/)
 
-{{< callout emoji="🖥️" type="custom" title="What is a web browser and a browser extension?" text="A <a href='https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/'>web browser</a> is an application used to visit websites on the internet, you are using one right now to read this website! The most common web browsers today are Google Chrome, Mozilla Firefox, and Apple Safari. A <a href='https://www.microsoft.com/en-us/edge/learning-center/everything-to-know-about-browser-extensions'>browser extension</a> is an app inside of your web browser that adds new functionality to help improve your experience. There is a specific group of extensions that help block potentially malicious advertisements which can lead to scams." style="background: transparent; border: 3px solid #40e0d0" >}}
+Web browsers and browser extensions are explained in the [glossary](#glossary).
 
 ## Enable Enhanced Browser Security
 
@@ -173,7 +236,7 @@ these methods.
 While it is still common to utilize email addresses provided by telecom companies like Comcast or
 SBC Global or ones provided by an employer or school, it is a good idea to migrate to a more modern
 provider like Gmail, Outlook, or Apple mail. The benefit is not having an email tied to a specific
-service that might change in the future. This future proofs you when there is a physical move to a
+service that might change in the future. This future proofs them when there is a physical move to a
 new city or change of employment. This also introduces an opportunity to have a clean start and
 reduce the spam messages that are most likely being sent to an old email address.
 
@@ -303,7 +366,7 @@ is their first incident.
 4. [Review Browser History and Disable Notifications](#review-browser-history-and-disable-notifications)
 5. [Cleanup of Computer](#cleanup-of-computer)
 
-{{< callout type="alert" text="This section of the guide is intended for individuals who are experienced or comfortable with desktop computers. If you are not, find a family member or friend who might be able to help out. If that is not an option, take the computer in person to the manufacturer's store, the retailer it was bought from, or a local repair shop your family has used before. Do not search online for tech support or call a number from a pop-up, since that is how many of these scams begin." >}}
+{{< callout type="alert" text="If any of these steps are beyond what you are comfortable with, take the computer in person to the manufacturer's store, the retailer it was bought from, or a local repair shop your family has used before. Do not search online for tech support or call a number from a pop-up, since that is how many of these scams begin." >}}
 
 ### Search for Installed Remote Software
 
