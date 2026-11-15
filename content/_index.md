@@ -127,10 +127,13 @@ To enable in Chrome:
 
 **Other Browsers:**
 
-- **Firefox**: Enable Enhanced Tracking Protection in Settings → Privacy & Security
-- **Safari**: Fraudulent website warnings are enabled by default in Safari → Preferences → Security
+- **Firefox**: Phishing and malware protection is enabled by default but can be verified in
+  Settings → Privacy & Security -> Security -> "Block dangerous and deceptive content"
+- **Safari**: Fraudulent website warnings are enabled by default but can be verified in Safari ->
+  Settings -> Security -> "Warn when visiting a fraudulent website"
 - **Microsoft Edge**: Microsoft Defender SmartScreen is enabled by default but can be verified in
-  Settings → Privacy, search, and services
+  Settings -> Privacy, search, and services -> Security. In the same place, turn on Scareware
+  blocker, which detects full-screen fake "your computer is infected" pages
 
 **Important Note:** Enhanced protection modes may share more data with the browser company for
 analysis, but for most users vulnerable to scams, the security benefits outweigh privacy concerns.
