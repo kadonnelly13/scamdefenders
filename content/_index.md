@@ -293,11 +293,19 @@ Below is a list of tools for desktops and links for how to uninstall them.
 
 - [TeamViewer](https://www.teamviewer.com/en-us/global/support/knowledge-base/teamviewer-remote/download-and-installation/uninstall-teamviewer-remote-on-windows/)
 - [Splashtop](https://support-splashtopbusiness.splashtop.com/hc/en-us/articles/216378343-How-to-uninstall-Splashtop)
-- [AnyViewer](https://www.anyviewer.com/how-to/unable-to-uninstall-remptepc-2996.html)
+- [AnyViewer](https://www.anyviewer.com/help/install-and-uninstall.html)
 - [Zoho Assist](https://help.zoho.com/portal/en/kb/assist/user-guide/general/articles/how-to-uninstall-zoho-assist-unattended-agent)
-- [LogMeIn Rescue](https://support.logmein.com/pro/help/how-to-manually-uninstall-logmein)
+- [LogMeIn Rescue](https://support.logmein.com/rescue/help/how-to-remove-a-stuck-rescue-applet)
+- [LogMeIn Resolve (formerly GoTo Resolve)](https://support.logmein.com/resolve/help/cleanup-scripts-for-goto-resolve)
 - [ScreenConnect](https://docs.connectwise.com/ScreenConnect_Documentation/Get_started/Knowledge_base/Manually_uninstall_an_access_agent)
-- [AnyDesk](https://tsplus.net/remote-support/blog/how-to-remove-anydesk-completely/)
+- [AnyDesk](https://support.anydesk.com/docs/uninstall-anydesk)
+- [UltraViewer](https://www.ultraviewer.net/en/200000295-how-to-Uninstall-UltraViewer.html)
+- [Chrome Remote Desktop](https://support.google.com/chrome/answer/1649523) (see "Remove Chrome
+  Remote Desktop")
+- [Windows Quick Assist](https://learn.microsoft.com/en-us/windows/client-management/client-tools/quick-assist#uninstall-quick-assist)
+  (built into Windows and needs a new code each session, so removing it is optional)
+- RustDesk: there is no official uninstall guide. On Windows, go to Settings > Apps > Installed
+  apps, find RustDesk, and select Uninstall.
 
 ### Reset All Passwords for Critical Accounts & Enable MFA
 
