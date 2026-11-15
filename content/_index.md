@@ -96,11 +96,14 @@ targeted individuals attempting to blackmail or extort money from the victims vi
 Many times scams can come from ads throughout the internet. Installing an ad-blocker in their web
 browsers helps to reduce that attack surface for scammers. If possible, try to install an ad-blocker
 on all of the web browsers available to the device, not just their default browser. The most trusted
-ad-blocker is uBlock Origin which can be installed for all browsers but there are other alternatives
-as well.
+ad-blocker is uBlock Origin, which is available for Firefox. Chrome, Edge and Safari no longer
+support it, so use uBlock Origin Lite from the same developer on those browsers. There are other
+alternatives as well.
 
-- [uBlock Origin](https://ublockorigin.com/)
-- [Privacy Badger](https://privacybadger.org/)
+- [uBlock Origin (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+- [uBlock Origin Lite (Chrome)](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh)
+- [uBlock Origin Lite (Edge)](https://microsoftedge.microsoft.com/addons/detail/ublock-origin-lite/cimighlppcgcoapaliogpjjdehbnofhn)
+- [uBlock Origin Lite (Safari)](https://apps.apple.com/us/app/ublock-origin-lite/id6745342698)
 - [Ghostery](https://www.ghostery.com/)
 
 {{< callout emoji="🖥️" type="custom" title="What is a web browser and a browser extension?" text="A <a href='https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/'>web browser</a> is an application used to visit websites on the internet, you are using one right now to read this website! The most common web browsers today are Google Chrome, Mozilla Firefox, and Apple Safari. A <a href='https://www.microsoft.com/en-us/edge/learning-center/everything-to-know-about-browser-extensions'>browser extension</a> is an app inside of your web browser that adds new functionality to help improve your experience. There is a specific group of extensions that help block potentially malicious advertisements which can lead to scams." style="background: transparent; border: 3px solid #40e0d0" >}}
