@@ -132,8 +132,8 @@ To enable in Chrome:
 
 **Other Browsers:**
 
-- **Firefox**: Phishing and malware protection is enabled by default but can be verified in
-  Settings → Privacy & Security -> Security -> "Block dangerous and deceptive content"
+- **Firefox**: Phishing and malware protection is enabled by default but can be verified in Settings
+  → Privacy & Security -> Security -> "Block dangerous and deceptive content"
 - **Safari**: Fraudulent website warnings are enabled by default but can be verified in Safari ->
   Settings -> Security -> "Warn when visiting a fraudulent website"
 - **Microsoft Edge**: Microsoft Defender SmartScreen is enabled by default but can be verified in
@@ -309,7 +309,6 @@ Do this from a different device that the scammer never had access to, such as a 
 computer or phone. Anything typed on the affected computer could still be seen or recorded until it
 has been cleaned up. Start with the email account, since it can be used to reset the passwords for
 most other accounts.
-
 
 ### Review Email, Phone Calls and Text Messages
 
