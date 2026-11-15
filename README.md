@@ -27,5 +27,5 @@ We utilize [Aspell](http://aspell.net/) for spellcheck purposes on the main land
 `.aspell.lang.prepl` contains the custom wordlist.
 
 ```shell
-aspell check -dict-dir en_US ./content/_index.md
+aspell list --lang=en_US --mode=markdown --ignore=2 --personal=./.aspell.lang.pws < content/_index.md | sort -u
 ```
