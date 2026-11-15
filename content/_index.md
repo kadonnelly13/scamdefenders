@@ -256,9 +256,10 @@ go through the exercise of filling it out together.
 If you believe that a loved one is actively being scammed online, the FTC has a very good guide [1]
 for reference. Immediate steps that you can take include:
 
-1. Ask them to turn off or unplug their computer. Typically, a scammer will request some sort of
-   remote access. Turning off the computer is the best way to stop the connection that allows the
-   scammer access.
+1. Ask them to disconnect the computer from the internet right away: unplug the network cable or
+   turn off Wi-Fi. If they are not sure how, turning off or unplugging the computer works too.
+   Typically, a scammer will request some sort of remote access, and cutting the internet connection
+   is the fastest way to stop it.
 2. Call their banks and let them know this is happening so they can freeze accounts
 3. Warn them to not interact with any additional phone calls, emails, or text messages that may come
 
@@ -274,19 +275,13 @@ feeling very self-conscious right now and have a wide range of emotions. The lea
 in with a good attitude, not shame them, and try to uplift the mood, if possible, especially if this
 is their first incident.
 
-1. [Reset all passwords for critical accounts and enable MFA](#reset-all-passwords-for-critical-accounts--enable-mfa)
-2. [Search for Installed Remote Software](#search-for-installed-remote-software)
+1. [Search for Installed Remote Software](#search-for-installed-remote-software)
+2. [Reset all passwords for critical accounts and enable MFA](#reset-all-passwords-for-critical-accounts--enable-mfa)
 3. [Review Email, Phone Calls and Text Messages](#review-email-phone-calls-and-text-messages)
 4. [Review Browser History and Disable Notifications](#review-browser-history-and-disable-notifications)
 5. [Cleanup of Computer](#cleanup-of-computer)
 
-{{< callout type="alert" text="This section of the guide is intended for individuals who are experienced or comfortable with desktop computers. If you are not find a family member or friend who might be able to help out. If not go to <a href='https://www.yelp.com/search?find_desc=tech+support'>Yelp</a> and find a reputable tech support company." >}}
-
-### Reset All Passwords for Critical Accounts & Enable MFA
-
-For all banking, email, and other critical accounts it is best to immediately reset all account
-passwords and enable MFA where possible. It is difficult to track down what they might have had
-access to and for what period of time if there was a remote software tool involved.
+{{< callout type="alert" text="This section of the guide is intended for individuals who are experienced or comfortable with desktop computers. If you are not, find a family member or friend who might be able to help out. If that is not an option, take the computer in person to the manufacturer's store, the retailer it was bought from, or a local repair shop your family has used before. Do not search online for tech support or call a number from a pop-up, since that is how many of these scams begin." >}}
 
 ### Search for Installed Remote Software
 
@@ -303,6 +298,18 @@ Below is a list of tools for desktops and links for how to uninstall them.
 - [LogMeIn Rescue](https://support.logmein.com/pro/help/how-to-manually-uninstall-logmein)
 - [ScreenConnect](https://docs.connectwise.com/ScreenConnect_Documentation/Get_started/Knowledge_base/Manually_uninstall_an_access_agent)
 - [AnyDesk](https://tsplus.net/remote-support/blog/how-to-remove-anydesk-completely/)
+
+### Reset All Passwords for Critical Accounts & Enable MFA
+
+For all banking, email, and other critical accounts it is best to immediately reset all account
+passwords and enable MFA where possible. It is difficult to track down what they might have had
+access to and for what period of time if there was a remote software tool involved.
+
+Do this from a different device that the scammer never had access to, such as a family member's
+computer or phone. Anything typed on the affected computer could still be seen or recorded until it
+has been cleaned up. Start with the email account, since it can be used to reset the passwords for
+most other accounts.
+
 
 ### Review Email, Phone Calls and Text Messages
 
