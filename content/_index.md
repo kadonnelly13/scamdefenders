@@ -56,10 +56,15 @@ Two good rules of thumb are:
    don't engage with them.
 2. If you have never used or heard of a product or service before then you don't owe them money.
 
-If you are skeptical about the interaction try to gather the name of the individual contacting you
-and a case or service number. Then search online for the official website of the organization to
-find a posted phone number or support email address to reach out to. If this person is calling from
-a bank, your credit/debit card will have an official phone number on the physical card.
+If you are skeptical about the interaction, try to gather the name of the individual contacting you
+and a case or service number, then end the conversation. Do not use any phone number, link, or email
+address the person gives you, and do not search online for a support number. Scammers pay for search
+ads that show fake support numbers above the real ones. Instead, reach out to the organization using
+contact details you already have and trust:
+
+- The phone number printed on the back of your credit/debit card
+- The phone number on a recent bill or account statement
+- A website address you have bookmarked or typed in yourself before
 
 The Consumer Financial Protection Bureau [1] and AARP [2] have good lists of common scams that are a
 good read to help drive a conversation. During that conversation it would also be good to review
