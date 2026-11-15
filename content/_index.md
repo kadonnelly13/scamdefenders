@@ -214,16 +214,38 @@ options include:
 
 🟡 Moderate Difficulty Level
 
-One of the best ways to protect against spam calls is to just block all calls to your loved one's
-cell phone if there isn't an existing contact.
+One of the best ways to protect against spam calls is to stop calls from numbers that are not saved
+as a contact from ringing your loved one's cell phone.
 
-Blocking calls has the potential to impact daily life in ways that might be unforeseen. There are
-legitimate scenarios where a phone number not saved as a contact in their phone should be able to
-get in contact with them. For example, a doctors office who is trying to get in touch about an
-appointment or a financial institution checking in on a transaction.
+Silenced calls are not lost. The caller is sent to voicemail and the call still shows in the list of
+recent calls, so a real caller such as a doctor's office or a bank can leave a message and be called
+back. Before turning this on, sit down together and add the numbers they rely on as contacts:
+family, doctors, the pharmacy, their bank, and anyone else who calls regularly. Then show them how
+to check voicemail, and remind them that a scammer can leave a voicemail too.
 
-- [iPhones & iOS Devices](https://support.apple.com/en-kg/guide/iphone/iphe4b3f7823/ios)
-- [Android Devices](https://support.google.com/pixelphone/thread/8675177?hl=en&msgid=8676481)
+**iPhone:** Open Settings, then Apps, then Phone, and find "Screen Unknown Callers". On older
+versions of iOS this setting is called "Silence Unknown Callers".
+
+- "Silence" sends calls from numbers that are not contacts straight to voicemail.
+- "Ask Reason for Calling" makes the caller say who they are and why they are calling before the
+  phone rings.
+
+**Android:** The settings depend on who made the phone, and there is no single switch that blocks
+every number that is not a contact.
+
+- On Google Pixel phones, turn on "Call Screen" in the Phone app's settings. It answers calls from
+  numbers that are not contacts and asks who is calling before the phone rings.
+- On other Android phones, turn on "Caller ID and spam protection" and "Filter spam calls" in the
+  Phone app's settings.
+- "Block calls from unknown numbers" only blocks callers who hide their number. It does not block
+  numbers that are simply not saved as contacts.
+
+Instructions:
+
+- [iPhone: Screen and block calls](https://support.apple.com/guide/iphone/iphe4b3f7823/ios)
+- [Android (Google Phone app): Screen your calls](https://support.google.com/phoneapp/answer/9118387?hl=en)
+- [Android (Google Phone app): Caller ID and spam protection](https://support.google.com/phoneapp/answer/3459196?hl=en)
+- [Samsung Galaxy: Block a phone number](https://www.samsung.com/us/support/answer/ANS10002869/)
 
 ## Practice General Secure Computer and Phone Hygiene
 
