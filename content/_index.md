@@ -56,10 +56,15 @@ Two good rules of thumb are:
    don't engage with them.
 2. If you have never used or heard of a product or service before then you don't owe them money.
 
-If you are skeptical about the interaction try to gather the name of the individual contacting you
-and a case or service number. Then search online for the official website of the organization to
-find a posted phone number or support email address to reach out to. If this person is calling from
-a bank, your credit/debit card will have an official phone number on the physical card.
+If you are skeptical about the interaction, try to gather the name of the individual contacting you
+and a case or service number, then end the conversation. Do not use any phone number, link, or email
+address the person gives you, and do not search online for a support number. Scammers pay for search
+ads that show fake support numbers above the real ones. Instead, reach out to the organization using
+contact details you already have and trust:
+
+- The phone number printed on the back of your credit/debit card
+- The phone number on a recent bill or account statement
+- A website address you have bookmarked or typed in yourself before
 
 The Consumer Financial Protection Bureau [1] and AARP [2] have good lists of common scams that are a
 good read to help drive a conversation. During that conversation it would also be good to review
@@ -96,11 +101,14 @@ targeted individuals attempting to blackmail or extort money from the victims vi
 Many times scams can come from ads throughout the internet. Installing an ad-blocker in their web
 browsers helps to reduce that attack surface for scammers. If possible, try to install an ad-blocker
 on all of the web browsers available to the device, not just their default browser. The most trusted
-ad-blocker is uBlock Origin which can be installed for all browsers but there are other alternatives
-as well.
+ad-blocker is uBlock Origin, which is available for Firefox. Chrome, Edge and Safari no longer
+support it, so use uBlock Origin Lite from the same developer on those browsers. There are other
+alternatives as well.
 
-- [uBlock Origin](https://ublockorigin.com/)
-- [Privacy Badger](https://privacybadger.org/)
+- [uBlock Origin (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+- [uBlock Origin Lite (Chrome)](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh)
+- [uBlock Origin Lite (Edge)](https://microsoftedge.microsoft.com/addons/detail/ublock-origin-lite/cimighlppcgcoapaliogpjjdehbnofhn)
+- [uBlock Origin Lite (Safari)](https://apps.apple.com/us/app/ublock-origin-lite/id6745342698)
 - [Ghostery](https://www.ghostery.com/)
 
 {{< callout emoji="🖥️" type="custom" title="What is a web browser and a browser extension?" text="A <a href='https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/'>web browser</a> is an application used to visit websites on the internet, you are using one right now to read this website! The most common web browsers today are Google Chrome, Mozilla Firefox, and Apple Safari. A <a href='https://www.microsoft.com/en-us/edge/learning-center/everything-to-know-about-browser-extensions'>browser extension</a> is an app inside of your web browser that adds new functionality to help improve your experience. There is a specific group of extensions that help block potentially malicious advertisements which can lead to scams." style="background: transparent; border: 3px solid #40e0d0" >}}
@@ -124,10 +132,13 @@ To enable in Chrome:
 
 **Other Browsers:**
 
-- **Firefox**: Enable Enhanced Tracking Protection in Settings → Privacy & Security
-- **Safari**: Fraudulent website warnings are enabled by default in Safari → Preferences → Security
+- **Firefox**: Phishing and malware protection is enabled by default but can be verified in Settings
+  → Privacy & Security -> Security -> "Block dangerous and deceptive content"
+- **Safari**: Fraudulent website warnings are enabled by default but can be verified in Safari ->
+  Settings -> Security -> "Warn when visiting a fraudulent website"
 - **Microsoft Edge**: Microsoft Defender SmartScreen is enabled by default but can be verified in
-  Settings → Privacy, search, and services
+  Settings -> Privacy, search, and services -> Security. In the same place, turn on Scareware
+  blocker, which detects full-screen fake "your computer is infected" pages
 
 **Important Note:** Enhanced protection modes may share more data with the browser company for
 analysis, but for most users vulnerable to scams, the security benefits outweigh privacy concerns.
@@ -203,16 +214,38 @@ options include:
 
 🟡 Moderate Difficulty Level
 
-One of the best ways to protect against spam calls is to just block all calls to your loved one's
-cell phone if there isn't an existing contact.
+One of the best ways to protect against spam calls is to stop calls from numbers that are not saved
+as a contact from ringing your loved one's cell phone.
 
-Blocking calls has the potential to impact daily life in ways that might be unforeseen. There are
-legitimate scenarios where a phone number not saved as a contact in their phone should be able to
-get in contact with them. For example, a doctors office who is trying to get in touch about an
-appointment or a financial institution checking in on a transaction.
+Silenced calls are not lost. The caller is sent to voicemail and the call still shows in the list of
+recent calls, so a real caller such as a doctor's office or a bank can leave a message and be called
+back. Before turning this on, sit down together and add the numbers they rely on as contacts:
+family, doctors, the pharmacy, their bank, and anyone else who calls regularly. Then show them how
+to check voicemail, and remind them that a scammer can leave a voicemail too.
 
-- [iPhones & iOS Devices](https://support.apple.com/en-kg/guide/iphone/iphe4b3f7823/ios)
-- [Android Devices](https://support.google.com/pixelphone/thread/8675177?hl=en&msgid=8676481)
+**iPhone:** Open Settings, then Apps, then Phone, and find "Screen Unknown Callers". On older
+versions of iOS this setting is called "Silence Unknown Callers".
+
+- "Silence" sends calls from numbers that are not contacts straight to voicemail.
+- "Ask Reason for Calling" makes the caller say who they are and why they are calling before the
+  phone rings.
+
+**Android:** The settings depend on who made the phone, and there is no single switch that blocks
+every number that is not a contact.
+
+- On Google Pixel phones, turn on "Call Screen" in the Phone app's settings. It answers calls from
+  numbers that are not contacts and asks who is calling before the phone rings.
+- On other Android phones, turn on "Caller ID and spam protection" and "Filter spam calls" in the
+  Phone app's settings.
+- "Block calls from unknown numbers" only blocks callers who hide their number. It does not block
+  numbers that are simply not saved as contacts.
+
+Instructions:
+
+- [iPhone: Screen and block calls](https://support.apple.com/guide/iphone/iphe4b3f7823/ios)
+- [Android (Google Phone app): Screen your calls](https://support.google.com/phoneapp/answer/9118387?hl=en)
+- [Android (Google Phone app): Caller ID and spam protection](https://support.google.com/phoneapp/answer/3459196?hl=en)
+- [Samsung Galaxy: Block a phone number](https://www.samsung.com/us/support/answer/ANS10002869/)
 
 ## Practice General Secure Computer and Phone Hygiene
 
@@ -245,9 +278,10 @@ go through the exercise of filling it out together.
 If you believe that a loved one is actively being scammed online, the FTC has a very good guide [1]
 for reference. Immediate steps that you can take include:
 
-1. Ask them to turn off or unplug their computer. Typically, a scammer will request some sort of
-   remote access. Turning off the computer is the best way to stop the connection that allows the
-   scammer access.
+1. Ask them to disconnect the computer from the internet right away: unplug the network cable or
+   turn off Wi-Fi. If they are not sure how, turning off or unplugging the computer works too.
+   Typically, a scammer will request some sort of remote access, and cutting the internet connection
+   is the fastest way to stop it.
 2. Call their banks and let them know this is happening so they can freeze accounts
 3. Warn them to not interact with any additional phone calls, emails, or text messages that may come
 
@@ -263,19 +297,13 @@ feeling very self-conscious right now and have a wide range of emotions. The lea
 in with a good attitude, not shame them, and try to uplift the mood, if possible, especially if this
 is their first incident.
 
-1. [Reset all passwords for critical accounts and enable MFA](#reset-all-passwords-for-critical-accounts--enable-mfa)
-2. [Search for Installed Remote Software](#search-for-installed-remote-software)
+1. [Search for Installed Remote Software](#search-for-installed-remote-software)
+2. [Reset all passwords for critical accounts and enable MFA](#reset-all-passwords-for-critical-accounts--enable-mfa)
 3. [Review Email, Phone Calls and Text Messages](#review-email-phone-calls-and-text-messages)
 4. [Review Browser History and Disable Notifications](#review-browser-history-and-disable-notifications)
 5. [Cleanup of Computer](#cleanup-of-computer)
 
-{{< callout type="alert" text="This section of the guide is intended for individuals who are experienced or comfortable with desktop computers. If you are not find a family member or friend who might be able to help out. If not go to <a href='https://www.yelp.com/search?find_desc=tech+support'>Yelp</a> and find a reputable tech support company." >}}
-
-### Reset All Passwords for Critical Accounts & Enable MFA
-
-For all banking, email, and other critical accounts it is best to immediately reset all account
-passwords and enable MFA where possible. It is difficult to track down what they might have had
-access to and for what period of time if there was a remote software tool involved.
+{{< callout type="alert" text="This section of the guide is intended for individuals who are experienced or comfortable with desktop computers. If you are not, find a family member or friend who might be able to help out. If that is not an option, take the computer in person to the manufacturer's store, the retailer it was bought from, or a local repair shop your family has used before. Do not search online for tech support or call a number from a pop-up, since that is how many of these scams begin." >}}
 
 ### Search for Installed Remote Software
 
@@ -287,11 +315,30 @@ Below is a list of tools for desktops and links for how to uninstall them.
 
 - [TeamViewer](https://www.teamviewer.com/en-us/global/support/knowledge-base/teamviewer-remote/download-and-installation/uninstall-teamviewer-remote-on-windows/)
 - [Splashtop](https://support-splashtopbusiness.splashtop.com/hc/en-us/articles/216378343-How-to-uninstall-Splashtop)
-- [AnyViewer](https://www.anyviewer.com/how-to/unable-to-uninstall-remptepc-2996.html)
+- [AnyViewer](https://www.anyviewer.com/help/install-and-uninstall.html)
 - [Zoho Assist](https://help.zoho.com/portal/en/kb/assist/user-guide/general/articles/how-to-uninstall-zoho-assist-unattended-agent)
-- [LogMeIn Rescue](https://support.logmein.com/pro/help/how-to-manually-uninstall-logmein)
+- [LogMeIn Rescue](https://support.logmein.com/rescue/help/how-to-remove-a-stuck-rescue-applet)
+- [LogMeIn Resolve (formerly GoTo Resolve)](https://support.logmein.com/resolve/help/cleanup-scripts-for-goto-resolve)
 - [ScreenConnect](https://docs.connectwise.com/ScreenConnect_Documentation/Get_started/Knowledge_base/Manually_uninstall_an_access_agent)
-- [AnyDesk](https://tsplus.net/remote-support/blog/how-to-remove-anydesk-completely/)
+- [AnyDesk](https://support.anydesk.com/docs/uninstall-anydesk)
+- [UltraViewer](https://www.ultraviewer.net/en/200000295-how-to-Uninstall-UltraViewer.html)
+- [Chrome Remote Desktop](https://support.google.com/chrome/answer/1649523) (see "Remove Chrome
+  Remote Desktop")
+- [Windows Quick Assist](https://learn.microsoft.com/en-us/windows/client-management/client-tools/quick-assist#uninstall-quick-assist)
+  (built into Windows and needs a new code each session, so removing it is optional)
+- RustDesk: there is no official uninstall guide. On Windows, go to Settings > Apps > Installed
+  apps, find RustDesk, and select Uninstall.
+
+### Reset All Passwords for Critical Accounts & Enable MFA
+
+For all banking, email, and other critical accounts it is best to immediately reset all account
+passwords and enable MFA where possible. It is difficult to track down what they might have had
+access to and for what period of time if there was a remote software tool involved.
+
+Do this from a different device that the scammer never had access to, such as a family member's
+computer or phone. Anything typed on the affected computer could still be seen or recorded until it
+has been cleaned up. Start with the email account, since it can be used to reset the passwords for
+most other accounts.
 
 ### Review Email, Phone Calls and Text Messages
 
