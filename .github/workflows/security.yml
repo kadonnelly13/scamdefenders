@@ -1,60 +1,30 @@
 name: Run security checks
 
-on: [pull_request]
+on:
+  pull_request:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 5 * * 1"
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 permissions: {}
 
 jobs:
-  run-semgrep:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-        with:
-          fetch-depth: 0
-          submodules: true
-          persist-credentials: false
-      - name: Install Semgrep
-        run: python3 -m pip install semgrep
-      - name: Get changed files
-        id: changed-files
-        run: |
-          if [ "${{ github.event_name }}" = "pull_request" ]; then
-            echo "files=$(git diff --name-only origin/${GITHUB_BASE_REF}...HEAD | tr '\n' ' ')" >> $GITHUB_OUTPUT
-          else
-            echo "files=$(git diff --name-only HEAD~1 | tr '\n' ' ')" >> $GITHUB_OUTPUT
-          fi
-      - name: Run Semgrep
-        run: |
-          CHANGED_FILES="${STEPS_CHANGED_FILES_OUTPUTS_FILES}"
-          if [ -n "$CHANGED_FILES" ]; then
-            # Filter to only existing files
-            EXISTING_FILES=""
-            for file in $CHANGED_FILES; do
-              if [ -f "$file" ]; then
-                EXISTING_FILES="$EXISTING_FILES $file"
-              fi
-            done
-            if [ -n "$EXISTING_FILES" ]; then
-              semgrep scan --config=auto $EXISTING_FILES
-            else
-              echo "No existing files to scan"
-            fi
-          else
-            echo "No files changed"
-          fi
-        env:
-          STEPS_CHANGED_FILES_OUTPUTS_FILES: ${{ steps.changed-files.outputs.files }}
   run-zizmor:
+    name: Run zizmor
     runs-on: ubuntu-latest
+    permissions:
+      contents: read # check out the repository
     steps:
       - name: Checkout
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
-          fetch-depth: 0
-          submodules: true
           persist-credentials: false
-      - name: Install Zizmor
-        run: python3 -m pip install zizmor
-      - name: Run Zizmor
-        run: zizmor ${{ github.workspace }}/.github
+      - name: Run zizmor
+        uses: zizmorcore/zizmor-action@45d7276c9ca790aabd705e31ca99c6185c3e76dd # v0.8.1
+        with:
+          persona: pedantic
