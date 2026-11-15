@@ -3,7 +3,18 @@ updates:
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
+    assignees:
+      - "kadonnelly13"
+    groups:
+      all-actions:
+        patterns: ["*"]
+    cooldown:
+      default-days: 7
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "daily"
     assignees:
       - "kadonnelly13"
     groups:
